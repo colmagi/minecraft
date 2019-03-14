@@ -1,0 +1,6 @@
+docker run \
+        --name spigot-mysql \
+        -e MYSQL_ROOT_PASSWORD=Papijaja@2 \
+        --network=dev-net \
+        -d -p 0.0.0.0:3306:3306 \
+        mysql:5.7

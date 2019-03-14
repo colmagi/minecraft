@@ -1,0 +1,30 @@
+lastAccountName: Arhke
+timestamps:
+  login: 1540605826499
+  lastteleport: 1540607034539
+  kits:
+    starter: 1540606878849
+  logout: 1540608049374
+ipAddress: 67.171.170.100
+lastlocation:
+  world: world
+  x: 960.5579632867701
+  y: 84.0
+  z: 939.9596621229343
+  yaw: -167.62677
+  pitch: 21.900019
+homes:
+  home:
+    world: world
+    x: 28484.43848164428
+    y: 83.0
+    z: -1056.391655560256
+    yaw: -26.910599
+    pitch: 49.35
+logoutlocation:
+  world: world
+  x: 28485.487065458867
+  y: 83.0
+  z: -1055.625573429524
+  yaw: 277.43604
+  pitch: 44.70013

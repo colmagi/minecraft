@@ -1,0 +1,59 @@
+lastAccountName: iiBethanyii
+timestamps:
+  login: 1543628512926
+  logout: 1543630170097
+  lastteleport: 1543630153950
+  kits:
+    elite: 1542776419103
+    expert: 1542863199858
+    veteran: 1542770844333
+    wood: 1543555977632
+  mute: 0
+ipAddress: 76.186.116.150
+lastlocation:
+  world: world_nether
+  x: 386.55102856937646
+  y: 72.0
+  z: 136.4537420687321
+  yaw: -3.2791748
+  pitch: 22.252983
+logoutlocation:
+  world: world
+  x: 396.5
+  y: 59.0
+  z: 340.5
+  yaw: -52.277855
+  pitch: 85.26926
+homes:
+  home:
+    world: world
+    x: 396.47439494720544
+    y: 59.0
+    z: 340.0585467585205
+    yaw: -88.75691
+    pitch: 22.733732
+  wild:
+    world: world
+    x: 1880.5894326679659
+    y: 63.0
+    z: -936.5556328175738
+    yaw: 86.76228
+    pitch: 10.09338
+  treasure:
+    world: world
+    x: 4571.5
+    y: 66.0
+    z: 3960.5
+    yaw: -36.276917
+    pitch: 43.96692
+  spawner:
+    world: world
+    x: 381.48724057683023
+    y: 6.0
+    z: 362.6661734334609
+    yaw: 178.59581
+    pitch: 8.145756
+money: '31814.055'
+muted: false
+nickname: §f§lI§4§lPhading§6§lFuzzy§r§lI
+afk: false

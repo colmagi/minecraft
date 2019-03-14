@@ -1,0 +1,31 @@
+lastAccountName: sharknanney
+timestamps:
+  login: 1544143413078
+  logout: 1544154308504
+  lastteleport: 1544153041119
+  kits:
+    starter: 1544152647166
+ipAddress: 72.180.98.139
+lastlocation:
+  world: world
+  x: 126.42808261484466
+  y: 66.0
+  z: 310.72184293515164
+  yaw: 205.61694
+  pitch: 23.95939
+logoutlocation:
+  world: world
+  x: 292.81319825535047
+  y: 49.5
+  z: 248.35424017629165
+  yaw: -33.22339
+  pitch: 31.050333
+homes:
+  home:
+    world: world
+    x: 37.248007761221345
+    y: 67.0
+    z: 273.79416134369177
+    yaw: 110.06658
+    pitch: 17.209406
+money: '46.0'

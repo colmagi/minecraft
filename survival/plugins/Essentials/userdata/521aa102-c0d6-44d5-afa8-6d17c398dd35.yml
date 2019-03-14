@@ -1,0 +1,23 @@
+lastAccountName: Nellynutton0614
+timestamps:
+  login: 1545599721764
+  logout: 1545602968125
+  lastteleport: 1543200037156
+  kits:
+    starter: 1543197906877
+ipAddress: 47.187.213.174
+lastlocation:
+  world: world
+  x: 0.5
+  y: 67.0
+  z: 0.5
+  yaw: -2.315094
+  pitch: 34.510147
+logoutlocation:
+  world: world
+  x: 307.30000001192093
+  y: 70.0
+  z: 322.79735415431264
+  yaw: 328.34436
+  pitch: 17.699987
+money: '4154.093333333333336'

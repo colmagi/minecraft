@@ -1,0 +1,39 @@
+lastAccountName: Mrmapl3syrup
+timestamps:
+  login: 1496003243625
+  lastteleport: 1496003834536
+  logout: 1496003846772
+  kits:
+    firework: 1484597398108
+    starter: 1494373027786
+    color: 1494372744903
+    legend: 1494370747438
+    notch: 1484597374657
+    dtools: 1484597355919
+  mute: 0
+  lastheal: 1494373530973
+ipAddress: 98.168.149.229
+godmode: true
+lastlocation:
+  world: world
+  x: -144.5
+  y: 70.0
+  z: -288.5
+  yaw: -266.3264
+  pitch: 66.72107
+nickname: §bMr§7maple§bsyrup
+homes: {}
+logoutlocation:
+  world: world
+  x: -145.100685975822
+  y: 70.0
+  z: -289.7761945405558
+  yaw: -34.056744
+  pitch: 3.9908566
+afk: false
+money: '0'
+muted: false
+powertools:
+  '402':
+  - kittycannon
+powertoolsenabled: true

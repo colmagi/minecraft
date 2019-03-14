@@ -1,0 +1,115 @@
+lastAccountName: 8Crazydude
+timestamps:
+  login: 1542595116015
+  lastteleport: 1542597566432
+  logout: 1542597933777
+  kits:
+    starter: 1483418666321
+    veteran: 1489546956215
+    legend: 1540339957584
+    wood: 1489540195057
+  lastheal: 1489547281811
+ipAddress: 68.97.81.33
+lastlocation:
+  world: world
+  x: 345.10156908436176
+  y: 107.0
+  z: 420.91210452447507
+  yaw: 76.191986
+  pitch: 23.285007
+logoutlocation:
+  world: world
+  x: -656.3758079323793
+  y: 101.2306510302611
+  z: -454.10007244292945
+  yaw: 212.92279
+  pitch: 35.134117
+homes:
+  home:
+    world: world
+    x: -222.47430621269592
+    y: 43.0
+    z: -3620.3176574486192
+    yaw: 142.7258
+    pitch: -0.6002375
+  blue:
+    world: world
+    x: 1356.9405378818285
+    y: 74.0
+    z: -200.019829589372
+    yaw: 308.98795
+    pitch: 15.600001
+  home2:
+    world: world
+    x: -167.2481767326893
+    y: 70.0
+    z: -162.88333828005366
+    yaw: 27.828041
+    pitch: 22.259161
+  far:
+    world: world
+    x: 2705.503326712916
+    y: 98.0
+    z: -11326.516944894802
+    yaw: 257.25348
+    pitch: 40.65001
+  home3:
+    world: world
+    x: -2332.2281340356653
+    y: 40.0
+    z: -6536.019675055613
+    yaw: -91.61865
+    pitch: 2.7001324
+  end:
+    world: world_the_end
+    x: -31.517145647760916
+    y: 94.0
+    z: -22.053241313083994
+    yaw: -72.749756
+    pitch: 11.850182
+  'no':
+    world: world
+    x: 386.2787507392606
+    y: 4.0
+    z: 754.3205524234032
+    yaw: -17.298035
+    pitch: 26.850065
+  temple2:
+    world: world
+    x: -1513.5222560069758
+    y: 47.0
+    z: -3878.251576215997
+    yaw: -176.47571
+    pitch: 14.399999
+  auswits:
+    world: world
+    x: -873.2436621175854
+    y: 65.0
+    z: 168.9908137137939
+    yaw: 88.32117
+    pitch: 11.424941
+  beanboy:
+    world: world
+    x: 4258.873506317342
+    y: 94.727622603536
+    z: 18417.766414805188
+    yaw: -118.18817
+    pitch: 46.96354
+  arena:
+    world: world
+    x: -660.5973170852105
+    y: 102.6254458632775
+    z: -458.8221471805366
+    yaw: -76.98701
+    pitch: 46.38088
+godmode: false
+nickname: §d§l§n§oTYRONE
+money: '836.270833333333264'
+afk: false
+powertools:
+  '268':
+  - smite
+  '262':
+  - fireball
+  '256':
+  - lightning

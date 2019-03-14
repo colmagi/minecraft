@@ -1,0 +1,31 @@
+lastAccountName: Hubert6194
+timestamps:
+  login: 1544146747494
+  lastteleport: 1544146775643
+  kits:
+    starter: 1543124750591
+  logout: 1544146840373
+ipAddress: 76.186.114.31
+lastlocation:
+  world: world
+  x: 209.15051564920608
+  y: 68.0
+  z: 489.0372653259657
+  yaw: -342.02118
+  pitch: 12.149856
+logoutlocation:
+  world: world
+  x: 354.7827089313965
+  y: 60.0
+  z: 375.12582897800223
+  yaw: -191.26718
+  pitch: -39.44997
+homes:
+  home:
+    world: world
+    x: 327.281070170479
+    y: 63.0
+    z: 410.9822484449452
+    yaw: 103.33367
+    pitch: 77.40005
+money: '14457.0'

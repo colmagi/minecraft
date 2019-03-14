@@ -1,0 +1,187 @@
+Messages:
+  Debug: false
+Bungeecord: false
+Hub:
+  CommandsEnabled: true
+  Location:
+    Server: none
+    X: 0
+    Y: 0
+    Z: 0
+    Yaw: 0
+    Pitch: 0
+    World: world
+Connection_Messages:
+  Enabled: true
+  Join: '&8[&a+&8] &f<displayname> &7joined the game'
+  Leave: '&8[&c-&8] &f<displayname> &7quit the game'
+  FirstJoin: '&9Welcome to the server, &f<displayname>&9!'
+Fixed_Weather:
+  Load: false
+  Enabled:
+  - world
+  - world_nether
+  - world_the_end
+Keep_Food:
+  Load: true
+  Enabled:
+  - world
+  - world_nether
+  - world_the_end
+Keep_Health:
+  Load: true
+  Enabled:
+  - world
+  - world_nether
+  - world_the_end
+Anti_Void:
+  Load: true
+  Enabled:
+  - world
+  - world_nether
+  - world_the_end
+  Message: '&9You got teleported to the spawn.'
+Jump_Pads:
+  Load: false
+  Enabled:
+  - world
+  - world_nether
+  - world_the_end
+  Force: 5
+  Material: REDSTONE_BLOCK
+  RequirePressurePlate: false
+Double_Jump:
+  Load: false
+  Enabled:
+  - world
+  - world_nether
+  - world_the_end
+  Force: 0.3
+  Sound: ENTITY_BAT_TAKEOFF
+Advanced_Motd:
+  Enabled: false
+  Motds:
+  - '&aThis server has HubBasics!'
+  - '&2Maybe the server owner should change these messages?'
+  Switchrate: 20
+Command_Override:
+  Load: false
+  Commands:
+  - '{"command":"plugin","aliases":"pl","permission":"hubbasics.bypass.plugin","message":"&cYou
+    don''t have permission to execute this command"}'
+Automated_Broadcasts:
+  Enabled: false
+  Messages:
+  - '&3This server uses HubBasics!'
+  - '&2This is just an example!'
+  Timing: 60
+  RandomOrder: false
+Bossbar_Messages:
+  Enabled: true
+  Messages:
+  - '&3Welcome to ColmagiCraft!'
+  - '&2Enter a portal to get started!'
+  Timing: 15
+Join_Teleport:
+  Load: true
+  Enabled:
+  - world
+  - world_nether
+  - world_the_end
+  X: 0
+  Y: 116
+  Z: 0
+  Yaw: 0
+  Pitch: 0
+  World: lobb
+Join_Items:
+  Load: false
+  Enabled:
+  - world
+  - world_nether
+  - world_the_end
+  ClearOnConnect: true
+  Items:
+  - Type: DIAMOND_SWORD
+    Amount: 1
+    Name: §cThis is just an example
+    Enchantments:
+      DAMAGE_ALL: 2
+    Droppable: true
+  - Type: GOLD_AXE
+    Amount: 1
+    Name: §aPlease edit the config.yml
+    Enchantments:
+      DURABILITY: 1
+    Droppable: true
+    Commands:
+      OnRightClick:
+        Command: kill
+        UseConsole: false
+  - Type: POTION
+    Amount: 1
+    Name: '§3Items use our custom item serialization! NB: Still in BETA!'
+    Lore:
+    - §7Yay, you can even add lore!
+    - §aMake it fancy :)
+    Droppable: true
+    Commands:
+      OnInventoryClick:
+        Command: say Hello! I am an example!
+        UseConsole: true
+  AddOnDeath: true
+Graphical_Menus:
+  Load: false
+  Menus:
+  - Title: §aThis is another example
+    Height: 5
+    AddToInventory: false
+    Item:
+      Type: ANVIL
+      Amount: 1
+      Droppable: true
+    Contents:
+      '14':
+        Type: GOLD_BLOCK
+        Amount: 1
+        Name: §cYou can add as many as you want!
+        Droppable: true
+        Commands:
+          OnInventoryClick:
+            Command: me just tested the cool new HubBasics menu API!
+            UseConsole: false
+      '10':
+        Type: DIAMOND_BLOCK
+        Amount: 1
+        Name: §cAll items use the same syntax!
+        Droppable: true
+        Commands:
+          OnInventoryClick:
+            Command: kill
+            UseConsole: false
+      '18':
+        Type: IRON_BLOCK
+        Amount: 1
+        Name: §eWanna create a 100% custom server menu?
+        Droppable: true
+        Commands:
+          OnInventoryClick:
+            Command: server SERVER_NAME_HERE
+            UseConsole: false
+      '22':
+        Type: EMERALD_BLOCK
+        Amount: 1
+        Name: §3This system is still in BETA!
+        Lore:
+        - §fPlease report bugs quickly so we can fix them!
+        Droppable: true
+        Commands:
+          OnInventoryClick:
+            Command: me needs to edit the config file :)
+            UseConsole: false
+Warps:
+  Load: false
+  Enabled:
+  - world
+  - world_nether
+  - world_the_end

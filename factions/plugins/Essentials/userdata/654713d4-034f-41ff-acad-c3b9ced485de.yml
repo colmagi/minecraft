@@ -1,0 +1,62 @@
+lastAccountName: TheBlueGamer0
+timestamps:
+  login: 1494969107681
+  lastteleport: 1494205203341
+  logout: 1494969116438
+  kits:
+    firework: 1483473020669
+    color: 1484002110825
+    legend: 1484007274739
+    notch: 1483468278502
+ipAddress: 99.153.179.8
+afk: false
+homes:
+  temp:
+    world: world
+    x: 12.65232978778197
+    y: 59.0
+    z: -11.551963248639119
+    yaw: -132.46356
+    pitch: 35.37823
+  base:
+    world: world
+    x: 1378.300000011921
+    y: 69.0
+    z: -190.69999998807907
+    yaw: -34.718693
+    pitch: -3.6062825
+  desert:
+    world: world
+    x: 1000206.2539811318
+    y: 63.0
+    z: 998876.5429391505
+    yaw: 4.737679
+    pitch: -0.3419795
+lastlocation:
+  world: world
+  x: -143.5
+  y: 67.0
+  z: -297.5
+  yaw: 0.0
+  pitch: 0.0
+logoutlocation:
+  world: world
+  x: -147.2256482865672
+  y: 135.06863020558112
+  z: -292.8636399329384
+  yaw: 132.01175
+  pitch: 82.72435
+godmode: false
+nickname: §7The§1Blue§7Gamer0
+money: '0'
+powertools:
+  '352':
+  - summon witherskeleton 5
+  '383':
+  - killall creeper
+  '280':
+  - fireball
+  '369':
+  - smite
+  '31':
+  - summon ghast

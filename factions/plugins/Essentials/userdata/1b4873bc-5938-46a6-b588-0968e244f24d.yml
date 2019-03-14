@@ -1,0 +1,32 @@
+lastAccountName: CamDog_447
+timestamps:
+  login: 1496002604560
+  logout: 1496003617895
+  lastteleport: 1496002725602
+  kits:
+    starter: 1494219119387
+ipAddress: 76.25.152.100
+lastlocation:
+  world: world
+  x: -786.6013100626176
+  y: 81.0
+  z: -50.692414209151316
+  yaw: 26.845978
+  pitch: 6.9000683
+money: '0'
+logoutlocation:
+  world: world
+  x: -115.42969621393526
+  y: 78.72983695771117
+  z: -305.06541075810605
+  yaw: -193.28235
+  pitch: 30.571022
+homes:
+  home:
+    world: world
+    x: -782.0186449697811
+    y: 79.0
+    z: -47.141592966090954
+    yaw: -173.85449
+    pitch: 16.050035
+afk: false

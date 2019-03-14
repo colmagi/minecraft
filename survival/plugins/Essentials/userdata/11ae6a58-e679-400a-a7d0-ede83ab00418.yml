@@ -1,0 +1,30 @@
+lastAccountName: jordan501anime
+timestamps:
+  login: 1483932273554
+  logout: 1483936520020
+  lastteleport: 1483935643947
+  kits:
+    starter: 1483763066753
+ipAddress: 75.120.253.74
+lastlocation:
+  world: world
+  x: -7.995038535012542
+  y: 59.7531999805212
+  z: -8.22459637858676
+  yaw: -15.69397
+  pitch: 23.223677
+logoutlocation:
+  world: world
+  x: 254.71845188028573
+  y: 63.0
+  z: 904.6003325345843
+  yaw: -228.45386
+  pitch: -11.999995
+homes:
+  home:
+    world: world
+    x: 230.5471732822182
+    y: 64.0
+    z: 902.8159475023442
+    yaw: -79.202515
+    pitch: -3.5999951

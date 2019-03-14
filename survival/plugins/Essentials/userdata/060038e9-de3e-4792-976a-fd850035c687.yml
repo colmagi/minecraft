@@ -1,0 +1,22 @@
+lastAccountName: Kokayn
+timestamps:
+  login: 1540948761001
+  kits:
+    starter: 1540949331075
+  lastteleport: 1540952130683
+  logout: 1540952917187
+ipAddress: 47.187.196.37
+lastlocation:
+  world: world
+  x: 0.30653031067057407
+  y: 66.0
+  z: 12.226372191686629
+  yaw: 320.30963
+  pitch: 17.75711
+logoutlocation:
+  world: world
+  x: 60.32115349924934
+  y: 66.0
+  z: 276.52871851460213
+  yaw: 192.60156
+  pitch: -0.17291158

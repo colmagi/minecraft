@@ -1,0 +1,28 @@
+lastAccountName: iMine03
+timestamps:
+  login: 1541739673570
+  lastteleport: 1541740127845
+  logout: 1541740158877
+ipAddress: 47.187.160.93
+lastlocation:
+  world: world
+  x: -139.04316815092832
+  y: 67.0
+  z: -276.61610543732843
+  yaw: -218.8435
+  pitch: 22.949862
+homes:
+  home:
+    world: world
+    x: -563.1877868964536
+    y: 80.0
+    z: -42.130212700872825
+    yaw: 54.653107
+    pitch: 21.860506
+logoutlocation:
+  world: world
+  x: -571.7622040929901
+  y: 74.0
+  z: -16.902565925233652
+  yaw: 206.75311
+  pitch: 2.660467

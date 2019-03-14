@@ -1,0 +1,212 @@
+{
+  "0": {
+    "relationWish": {},
+    "invites": [],
+    "open": false,
+    "tag": "§2Wilderness",
+    "description": "",
+    "lastOnlineTime": 0,
+    "money": 0.0,
+    "powerBoost": 0.0,
+    "flagOverrides": {
+      "PERMANENT": true,
+      "INFPOWER": true,
+      "ENDERGRIEF": true
+    },
+    "permOverrides": {
+      "BUILD": [
+        "ENEMY",
+        "TRUCE",
+        "NEUTRAL",
+        "ALLY",
+        "OFFICER",
+        "RECRUIT",
+        "MEMBER",
+        "LEADER"
+      ],
+      "DOOR": [
+        "ENEMY",
+        "TRUCE",
+        "NEUTRAL",
+        "ALLY",
+        "OFFICER",
+        "RECRUIT",
+        "MEMBER",
+        "LEADER"
+      ],
+      "CONTAINER": [
+        "ENEMY",
+        "TRUCE",
+        "NEUTRAL",
+        "ALLY",
+        "OFFICER",
+        "RECRUIT",
+        "MEMBER",
+        "LEADER"
+      ],
+      "BUTTON": [
+        "ENEMY",
+        "TRUCE",
+        "NEUTRAL",
+        "ALLY",
+        "OFFICER",
+        "RECRUIT",
+        "MEMBER",
+        "LEADER"
+      ],
+      "LEVER": [
+        "ENEMY",
+        "TRUCE",
+        "NEUTRAL",
+        "ALLY",
+        "OFFICER",
+        "RECRUIT",
+        "MEMBER",
+        "LEADER"
+      ]
+    }
+  },
+  "2": {
+    "relationWish": {},
+    "invites": [],
+    "open": false,
+    "tag": "bigautism",
+    "description": "this is the official faction of markus moofag",
+    "lastOnlineTime": 0,
+    "money": 0.0,
+    "powerBoost": 0.0,
+    "flagOverrides": {},
+    "permOverrides": {}
+  },
+  "-1": {
+    "relationWish": {},
+    "invites": [],
+    "open": false,
+    "tag": "SafeZone",
+    "description": "Free from PVP and monsters",
+    "lastOnlineTime": 1494717455436,
+    "money": 0.0,
+    "powerBoost": 0.0,
+    "flagOverrides": {
+      "PERMANENT": true,
+      "PEACEFUL": true,
+      "INFPOWER": true,
+      "POWERLOSS": false,
+      "PVP": false,
+      "MONSTERS": false,
+      "EXPLOSIONS": false,
+      "FIRESPREAD": false
+    },
+    "permOverrides": {
+      "DOOR": [
+        "ENEMY",
+        "TRUCE",
+        "NEUTRAL",
+        "ALLY",
+        "OFFICER",
+        "RECRUIT",
+        "MEMBER",
+        "LEADER"
+      ],
+      "CONTAINER": [
+        "ENEMY",
+        "TRUCE",
+        "NEUTRAL",
+        "ALLY",
+        "OFFICER",
+        "RECRUIT",
+        "MEMBER",
+        "LEADER"
+      ],
+      "BUTTON": [
+        "ENEMY",
+        "TRUCE",
+        "NEUTRAL",
+        "ALLY",
+        "OFFICER",
+        "RECRUIT",
+        "MEMBER",
+        "LEADER"
+      ],
+      "LEVER": [
+        "ENEMY",
+        "TRUCE",
+        "NEUTRAL",
+        "ALLY",
+        "OFFICER",
+        "RECRUIT",
+        "MEMBER",
+        "LEADER"
+      ],
+      "TERRITORY": [
+        "OFFICER",
+        "MEMBER",
+        "LEADER"
+      ]
+    }
+  },
+  "-2": {
+    "relationWish": {},
+    "invites": [],
+    "open": false,
+    "tag": "WarZone",
+    "description": "Not the safest place to be",
+    "lastOnlineTime": 1496003393417,
+    "money": 0.0,
+    "powerBoost": 0.0,
+    "flagOverrides": {
+      "PERMANENT": true,
+      "PEACEFUL": true,
+      "INFPOWER": true,
+      "FRIENDLYFIRE": true,
+      "ENDERGRIEF": true
+    },
+    "permOverrides": {
+      "DOOR": [
+        "ENEMY",
+        "TRUCE",
+        "NEUTRAL",
+        "ALLY",
+        "OFFICER",
+        "RECRUIT",
+        "MEMBER",
+        "LEADER"
+      ],
+      "CONTAINER": [
+        "ENEMY",
+        "TRUCE",
+        "NEUTRAL",
+        "ALLY",
+        "OFFICER",
+        "RECRUIT",
+        "MEMBER",
+        "LEADER"
+      ],
+      "BUTTON": [
+        "ENEMY",
+        "TRUCE",
+        "NEUTRAL",
+        "ALLY",
+        "OFFICER",
+        "RECRUIT",
+        "MEMBER",
+        "LEADER"
+      ],
+      "LEVER": [
+        "ENEMY",
+        "TRUCE",
+        "NEUTRAL",
+        "ALLY",
+        "OFFICER",
+        "RECRUIT",
+        "MEMBER",
+        "LEADER"
+      ],
+      "TERRITORY": [
+        "OFFICER",
+        "MEMBER",
+        "LEADER"
+      ]
+    }
+  }
+}

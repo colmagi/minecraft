@@ -1,0 +1,39 @@
+lastAccountName: BlazeUniverse
+timestamps:
+  login: 1483397221808
+  lastteleport: 1483398820285
+  logout: 1483400640900
+ipAddress: 99.147.137.147
+homes:
+  home1:
+    world: world
+    x: 361.8486116859203
+    y: 63.0
+    z: 745.3000000119209
+    yaw: -55.734787
+    pitch: 25.606482
+  beach:
+    world: world
+    x: 379.64688591313984
+    y: 65.0
+    z: -2142.0269317825246
+    yaw: 215.7716
+    pitch: 17.199858
+lastlocation:
+  world: world
+  x: 402.3825386028448
+  y: 70.13188439032639
+  z: -2177.4461258232814
+  yaw: 25.927876
+  pitch: 23.739277
+nickname: §f§kiii§7E§8d§7g§8y§7§mman§r§kiii
+afk: false
+powertools: {}
+logoutlocation:
+  world: world
+  x: 354.6740760867309
+  y: 9.0
+  z: 768.4612570109315
+  yaw: -347.62732
+  pitch: 49.028687
+godmode: true

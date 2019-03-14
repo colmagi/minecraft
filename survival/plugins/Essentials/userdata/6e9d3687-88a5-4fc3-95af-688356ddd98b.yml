@@ -1,0 +1,29 @@
+lastAccountName: JamListn
+timestamps:
+  login: 1543630700563
+  logout: 1543631321155
+  lastteleport: 1543631020308
+ipAddress: 47.187.199.139
+lastlocation:
+  world: world
+  x: -8.338425226507866
+  y: 59.0
+  z: 9.830113799755678
+  yaw: 233.00006
+  pitch: 1.9322287
+logoutlocation:
+  world: world
+  x: 419.626225105737
+  y: 66.0
+  z: 340.071050771402
+  yaw: 8.644775
+  pitch: 3.9000707
+homes:
+  home:
+    world: world
+    x: 427.5057111704604
+    y: 66.0
+    z: 348.1211444746605
+    yaw: 86.677
+    pitch: 27.015896
+money: '2480.250'

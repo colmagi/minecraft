@@ -1,0 +1,58 @@
+#
+# Name of the base item material
+#
+Material: WOOL
+#
+# The durability of the item or MetaData (Wool:1 means 1 is the metadata so it's orange wool)
+#
+Durability: 3
+#
+# The amount of items
+#
+Amount: 1
+#
+# If the item has the Unbreakable status.
+#
+Unbreakable: false
+#
+# Item Name
+#
+Name: '&aMenu Opener'
+#
+# Description, also known as Lore
+#
+Description:
+  - '&eMy purpose is to open'
+  - '&ethe menu'
+  - '&7>Via right click'
+#
+# If the player should be allowed to drop this item.
+#
+AllowDrop: false
+#
+# If the player should be able to move this item on his inventory.
+#
+AllowMove: false
+#
+# Slot where the item will be placed (Chest or JoinItems).
+# If this is set to -1 the item will be ADDED instead of placed (Avoids deleting other items on the same slot).
+#
+Slot: 1
+#
+# Where the commands should be ran
+#
+# AllowOffhand = If we should also run the commands when the item is on the offhand.
+# Inventory = When clicked on the inventory.
+# LeftClick = When left clicked on hand.
+# RightClick = When right clicked on hand.
+#
+RunCommands:
+  AllowOffhand: false
+  Inventory: false
+  LeftClick: false
+  RightClick: true
+#
+# List of commands to execute.
+#
+Commands:
+  - 'open:example-menu' # Opens a Menu

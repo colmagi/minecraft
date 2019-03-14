@@ -1,0 +1,29 @@
+#
+# Global, non-replaceable switch for this module.
+# !! DO NOT TOUCH Version !!
+# !! It's only used to keep track of changes between releases !!
+#
+Enabled: true
+Version: 1.1
+#
+# JumpPads per-world configuration.
+# Example:
+#
+# world:
+#   Sound: BLOCK_ANVIL
+#   Effect: EFFECT
+#
+# Enabled (boolean) is the status for this world, usually true (if you set false, why create a section anyway?).
+# Warp (Location name) is the name of the hubbasics warp (/hbwarp) the player will teleport to.
+#
+world:
+  Enabled: true
+  Power: 2
+  VerticalPower: 1
+  Material: REDSTONE_BLOCK
+  PressurePlate:
+    Required: false
+    Type: OAK_PRESSURE_PLATE
+    NoBlockRequired: false
+  Sound: BLOCK_ANVIL_LAND
+  Effect: CLOUD

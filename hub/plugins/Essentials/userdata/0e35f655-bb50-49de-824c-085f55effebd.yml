@@ -1,0 +1,19 @@
+lastAccountName: BigBlockEnergy
+timestamps:
+  login: 1544146021974
+  logout: 1544146029766
+ipAddress: 72.180.110.105
+lastlocation:
+  world: world
+  x: 0.37037218360870333
+  y: 116.0
+  z: 0.6358167615506686
+  yaw: -270.16718
+  pitch: 2.0994077
+logoutlocation:
+  world: world
+  x: -18.196865802280755
+  y: 116.6780335310816
+  z: -1.6518497057047927
+  yaw: -271.06732
+  pitch: 36.899414

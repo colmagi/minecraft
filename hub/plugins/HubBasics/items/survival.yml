@@ -1,0 +1,72 @@
+#
+# Name of the base item material
+#
+Material: stone_pickaxe
+#
+# The durability of the item or MetaData (Wool:1 means 1 is the metadata so it's orange wool)
+#
+Durability: 
+#
+# The amount of items
+#
+Amount: 1
+#
+# If the item has the Unbreakable status.
+#
+Unbreakable: true
+#
+# Item Name
+#
+Name: '&aSurvival'
+#
+# Description, also known as Lore
+#
+Description:
+  - '&2Join the Survival Server'
+#
+# Enchantments in the following form
+# NAME:LEVEL
+#
+Enchantments:
+  - DAMAGE_ALL:10
+#
+# ItemFlags from Bukkit
+#
+Flags:
+  - HIDE_ENCHANTS
+#
+# Permission to use/receive (hand) and see (in menus) this item.
+#
+Permission: hubbasics.items.menu
+#
+# If the player should be allowed to drop this item.
+#
+AllowDrop: false
+#
+# If the player should be able to move this item on his inventory.
+#
+AllowMove: false
+#
+# Slot where the item will be placed (Chest or JoinItems).
+# If this is set to -1 the item will be ADDED instead of placed (Avoids deleting other items on the same slot).
+#
+Slot: 1
+#
+# Where the commands should be ran
+#
+# AllowOffhand = If we should also run the commands when the item is on the offhand.
+# Inventory = When clicked on the inventory.
+# LeftClick = When left clicked on hand.
+# RightClick = When right clicked on hand.
+#
+RunCommands:
+  AllowOffhand: false
+  Inventory: true
+  LeftClick: false
+  RightClick: true
+#
+# List of commands to execute.
+#
+Commands:
+  - 'server:survival'  # Teleports to another Bungee server
+

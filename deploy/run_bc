@@ -1,0 +1,10 @@
+docker run \
+    --network dev-net \
+    --name bungeecord \
+    -d \
+    -p 0.0.0.0:25565:25565 \
+    -v /home/james/spigot-data/Bungeecord:/var/lib/minecraft \
+    -it \
+    -e DEFAULT_OP=dinnerbone \
+    -e MINECRAFT_EULA=true \
+    colmagi/bungeecord

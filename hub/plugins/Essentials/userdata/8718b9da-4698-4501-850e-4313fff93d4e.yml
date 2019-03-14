@@ -1,0 +1,32 @@
+lastAccountName: sethgaley
+timestamps:
+  login: 1494453951206
+  kits:
+    wood: 1489614758428
+  lastteleport: 1494167744968
+  logout: 1494453957594
+ipAddress: 71.120.18.249
+lastlocation:
+  world: world
+  x: 0.37037218360870333
+  y: 116.0
+  z: 0.6358167615506686
+  yaw: -270.16718
+  pitch: 2.0994077
+money: '4904'
+afk: false
+homes:
+  home:
+    world: world
+    x: -1203.905688298824
+    y: 76.0
+    z: 1297.5559417819597
+    yaw: -188.0782
+    pitch: 7.9499965
+logoutlocation:
+  world: world
+  x: -17.546776272721146
+  y: 116.34738279163639
+  z: 1.742675951352234
+  yaw: -268.96735
+  pitch: 90.0

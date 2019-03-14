@@ -1,0 +1,268 @@
+afk: false
+timestamps:
+  lastteleport: 1550888367180
+  logout: 1552409316033
+  login: 1552408972678
+  kits:
+    elite: 1542863579949
+    expert: 1541744540117
+    starter: 1542863853209
+    veteran: 1541041260293
+    legend: 1542999406712
+    wood: 1542488235823
+lastlocation:
+  world: world
+  x: 257.7522794610958
+  y: 83.35919369292266
+  z: 357.90298189211757
+  yaw: 98.54314
+  pitch: 15.420517
+homes:
+  village:
+    world: world
+    x: 387.1160349839725
+    y: 69.0
+    z: 712.5700420533183
+    yaw: -68.07552
+    pitch: 22.979338
+  who:
+    world: world
+    x: 390.7134951561766
+    y: 65.0
+    z: -2173.9146831339203
+    yaw: 186.97937
+    pitch: 28.60425
+  blaze:
+    world: world_nether
+    x: -158.2417449890494
+    y: 58.0
+    z: 155.30902023629903
+    yaw: -278.2799
+    pitch: 13.28334
+  bluegamer:
+    world: world
+    x: 1365.1947954109173
+    y: 64.0
+    z: -200.45317183169615
+    yaw: -58.33329
+    pitch: 2.2657819
+  top:
+    world: world
+    x: 223.3228677095775
+    y: 162.0
+    z: 490.164437099884
+    yaw: -7.4611816
+    pitch: 68.34048
+  maplebase:
+    world: world
+    x: -221.97641586644934
+    y: 43.0
+    z: -3612.825350545285
+    yaw: -336.6455
+    pitch: 16.974253
+  optivat:
+    world: world
+    x: 226.42221562244492
+    y: 69.0
+    z: 491.0596389465073
+    yaw: -107.5874
+    pitch: 33.641083
+  cabin:
+    world: world
+    x: -170.16720450751387
+    y: 64.0
+    z: -174.9535430919685
+    yaw: 327.01538
+    pitch: 9.676469
+  coolassvillage:
+    world: world
+    x: 691.4103759619045
+    y: 63.9375
+    z: -1212.2392084707192
+    yaw: 91.26648
+    pitch: 15.942275
+  mountains:
+    world: world
+    x: 1571.9433585870336
+    y: 75.0
+    z: -973.9345863255395
+    yaw: 35.00456
+    pitch: -5.4222527
+  highmountain:
+    world: world
+    x: 3068.570503276997
+    y: 241.0
+    z: -4539.519816756599
+    yaw: 290.11563
+    pitch: 55.494514
+  icespikes:
+    world: world
+    x: 3569.791859933487
+    y: 72.0
+    z: -6253.292456653908
+    yaw: 190.1246
+    pitch: -0.6791736
+  jungle:
+    world: world
+    x: 6032.870466846986
+    y: 98.0
+    z: -10531.73254194181
+    yaw: 222.5403
+    pitch: 45.453106
+  fuzzy:
+    world: world
+    x: 166.55405372464338
+    y: 75.0
+    z: -3716.064146622121
+    yaw: 32.84395
+    pitch: 32.40715
+  nuggy:
+    world: world
+    x: -2316.666565130001
+    y: 40.0
+    z: -6535.773748204178
+    yaw: -272.09143
+    pitch: 7.3529267
+  mall:
+    world: world
+    x: 924.49158600723
+    y: 77.0
+    z: -994.0690505887443
+    yaw: -206.22076
+    pitch: -1.0265977
+  coolhouse:
+    world: world
+    x: 1289.9523841135115
+    y: 78.0
+    z: 1228.0541495246207
+    yaw: 73.76099
+    pitch: 21.386656
+  destroyedtree:
+    world: world
+    x: 355.31696685188365
+    y: 141.0
+    z: 832.9476746575467
+    yaw: 21.820429
+    pitch: 31.507706
+  arthur:
+    world: world
+    x: -393.7881893314644
+    y: 64.0
+    z: -15.66755453250018
+    yaw: 32.42163
+    pitch: 18.930813
+  current:
+    world: world
+    x: -1100.7123426028636
+    y: 84.0
+    z: -380.69999998807907
+    yaw: 24.464146
+    pitch: 28.297148
+  quartzplane:
+    world: world
+    x: 2954.1012585518642
+    y: 103.0
+    z: 3015.870195788737
+    yaw: 20.007692
+    pitch: 25.356964
+  coolmesa:
+    world: world
+    x: -999.1384588552562
+    y: 65.0
+    z: -1225.7436575668762
+    yaw: 121.48282
+    pitch: 13.7444105
+  igloo:
+    world: world
+    x: 316.9719234419056
+    y: 63.0
+    z: -3026.601452605593
+    yaw: 244.8523
+    pitch: 12.941619
+  watertemple:
+    world: world
+    x: -5443.56338165214
+    y: 47.0
+    z: 840.026621215913
+    yaw: 268.47705
+    pitch: 63.931297
+  vacation:
+    world: world
+    x: -4945.782987570245
+    y: 63.0
+    z: 515.544693544561
+    yaw: 65.545105
+    pitch: 22.263165
+  watertemple2:
+    world: world
+    x: -4442.776980432525
+    y: 40.0
+    z: 151.818192900888
+    yaw: 262.6781
+    pitch: 16.398664
+  watertemple3:
+    world: world
+    x: -4983.639044198281
+    y: 40.0
+    z: 265.54262314936705
+    yaw: 180.89453
+    pitch: 21.846905
+  newbase:
+    world: world
+    x: 441.4147079729875
+    y: 84.9375
+    z: 474.8781417618487
+    yaw: -245.87573
+    pitch: 5.655112
+  concentrate:
+    world: world
+    x: -885.0973860673781
+    y: 64.0
+    z: 168.75812386337373
+    yaw: 96.57825
+    pitch: 22.80641
+  hugeassmountains:
+    world: world
+    x: -11980.441726584837
+    y: 152.0
+    z: 435.54686334311936
+    yaw: -78.98216
+    pitch: 37.22987
+  nether:
+    world: world_nether
+    x: -406.8150417604134
+    y: 71.0
+    z: 145.10557430314978
+    yaw: -278.74573
+    pitch: 27.979122
+  iminebase:
+    world: world
+    x: 770.6697101214542
+    y: 74.0
+    z: 252.32384111570445
+    yaw: -89.5564
+    pitch: 45.891598
+  mushroom:
+    world: world
+    x: -309.183023264564
+    y: 63.0
+    z: 5974.064818583284
+    yaw: 157.72655
+    pitch: 8.502426
+logoutlocation:
+  world: world
+  x: -0.432196875390755
+  y: 157.0
+  z: 299.9108336400566
+  yaw: -178.10402
+  pitch: 16.559937
+lastAccountName: TheRealColmagi
+ipAddress: 192.168.50.177
+powertools:
+  '46':
+  - antioch
+  '138':
+  - smite
+godmode: false
+money: '513288.0'
+nickname: §6TheRealColmagi

@@ -1,0 +1,10 @@
+docker run \
+    --network dev-net \
+    --name hub \
+    -p 0.0.0.0:25564:25565 \
+    -d \
+    -it \
+    -v /home/james/spigot-data/hub:/var/lib/minecraft \
+    -e DEFAULT_OP=dinnerbone \
+    -e MINECRAFT_EULA=true \
+    colmagi/hub

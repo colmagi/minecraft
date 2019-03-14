@@ -1,0 +1,45 @@
+groups:
+  default:
+    default: true
+    prefix: '&f[Default]&r'
+    permissions:
+    - modifyworld.*
+    - essentials.helpop
+    - essentials.list
+    - essentials.msg
+    - essentials.mail
+    - essentials.mail.send
+    - essentials.realname
+    - essentials.delhome
+    - essentials.home
+    - essentials.sethome
+    - essentials.tpa
+    - essentials.tpdeny
+    - essentials.tpaccept
+    - essentials.warp
+    - chatex.*
+    - -chatex.reload
+    - -chatex.clear
+    - essentials.joinfullserver
+    - essentials.help
+    options:
+      rank: '100'
+  elite:
+    prefix: '&f[&2Elite&f]&r'
+    permissions:
+    - essentials.sethome.multiple
+    - essentials.sethome.multiple.2
+    - essentials.near
+    - essentials.afk
+    - essentials.compass
+    - essentials.workbench
+    - essentials.back
+    - essentials.tphere
+    inheritance:
+    - default
+    options:
+      rank: '80'
+  owner:
+    prefix: '&f&l[&9&lOWNER&f&l]&r'
+    permissions:
+    - '*'

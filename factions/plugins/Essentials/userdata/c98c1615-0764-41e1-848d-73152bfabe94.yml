@@ -1,0 +1,74 @@
+afk: false
+nickname: §7§kii§4The§3Real§aColmagi§7§kii
+timestamps:
+  lastteleport: 1541739889471
+  logout: 1541740231924
+  login: 1541739532589
+  kits:
+    elite: 1541739707680
+    starter: 1494732131675
+    veteran: 1494218844418
+    color: 1494372754052
+    legend: 1489635881026
+    wood: 1489539348224
+lastlocation:
+  world: world
+  x: -125.34808309578764
+  y: 114.17499996721578
+  z: -287.1014729516565
+  yaw: -271.9961
+  pitch: 80.79981
+homes:
+  mine:
+    world: world
+    x: -313.5791350964693
+    y: 39.0
+    z: -157.23750001192093
+    yaw: 219.44458
+    pitch: 16.159895
+  mansion:
+    world: world
+    x: 675.9565075427845
+    y: 63.0
+    z: 585.3145091780033
+    yaw: -0.5025635
+    pitch: 10.460055
+  mesa:
+    world: world
+    x: 397.05927168816396
+    y: 94.0
+    z: -1105.428134051123
+    yaw: 126.43027
+    pitch: 36.044952
+  fortress:
+    world: world_nether
+    x: -58.11508469919529
+    y: 73.0
+    z: 912.6309380023334
+    yaw: 83.82544
+    pitch: 9.241567
+  oldbase:
+    world: world
+    x: -265.41682916797356
+    y: 5.0
+    z: -255.09932009987415
+    yaw: 182.6305
+    pitch: 53.45628
+logoutlocation:
+  world: world
+  x: -134.94861603189554
+  y: 67.0
+  z: -269.3958827853269
+  yaw: -323.01627
+  pitch: 30.596758
+lastAccountName: TheRealColmagi
+ipAddress: 192.168.50.1
+powertools:
+  '46':
+  - antioch
+  '289':
+  - fireball
+  '369':
+  - smite therealcolmagi
+godmode: false
+money: '0'

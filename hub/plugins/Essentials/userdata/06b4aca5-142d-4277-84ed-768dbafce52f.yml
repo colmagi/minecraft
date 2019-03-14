@@ -1,0 +1,19 @@
+lastAccountName: MagicKeeper
+timestamps:
+  login: 1541354909785
+  logout: 1541354922334
+ipAddress: 47.186.6.90
+lastlocation:
+  world: world
+  x: 0.37037218360870333
+  y: 116.0
+  z: 0.6358167615506686
+  yaw: -270.16718
+  pitch: 2.0994077
+logoutlocation:
+  world: world
+  x: 18.250169787901548
+  y: 115.0
+  z: -1.9310067786328506
+  yaw: 60.5828
+  pitch: 26.099405

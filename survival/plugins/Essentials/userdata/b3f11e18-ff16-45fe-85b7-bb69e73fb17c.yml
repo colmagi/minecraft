@@ -1,0 +1,131 @@
+lastAccountName: Mrmapl3syrup
+timestamps:
+  login: 1542593056790
+  lastteleport: 1542596720765
+  logout: 1542597557270
+  kits:
+    firework: 1540770093052
+    starter: 1483418451208
+    color: 1540770144527
+    veteran: 1540528214174
+    legend: 1540770222883
+    notch: 1540340585347
+    wood: 1540340889574
+    dtools: 1540770113706
+  mute: 0
+  lastheal: 1489369278012
+ipAddress: 98.168.149.229
+godmode: true
+lastlocation:
+  world: world
+  x: 339.957426964602
+  y: 78.15578112815228
+  z: 558.3129171758942
+  yaw: -146.36183
+  pitch: 10.050013
+nickname: §l§n§o§kee§r§1§nMr§7§nmaple§9§nsyrup§l§n§o§kee
+homes:
+  endcity:
+    world: world_the_end
+    x: 1728.1895865274582
+    y: 139.0
+    z: -1171.9109538335651
+    yaw: -123.399506
+    pitch: -0.22868857
+  home:
+    world: world
+    x: -246.33849669237915
+    y: 43.0
+    z: -3625.534513605032
+    yaw: 267.00488
+    pitch: 14.10413
+  house:
+    world: world
+    x: -168.4112019936933
+    y: 70.0
+    z: -160.70167956757192
+    yaw: 180.12933
+    pitch: 4.727498
+  sky:
+    world: world
+    x: -215.2755975254552
+    y: 115.5625
+    z: -262.4516230740397
+    yaw: 266.93167
+    pitch: 10.923087
+  temple:
+    world: world
+    x: -2315.89188545356
+    y: 40.0
+    z: -6535.940749654863
+    yaw: -270.11218
+    pitch: 0.22871462
+  illegal:
+    world: world
+    x: 385.511043241881
+    y: 4.0
+    z: 755.035629253414
+    yaw: 260.2297
+    pitch: 28.918333
+  build:
+    world: world
+    x: 1035.1947904322612
+    y: 70.0
+    z: 1195.8626838937478
+    yaw: -11.254761
+    pitch: 32.88419
+  auschvitz:
+    world: world
+    x: -880.5202607194458
+    y: 64.0
+    z: 168.59201092780174
+    yaw: -270.04688
+    pitch: -0.9000706
+  village:
+    world: world
+    x: -388.04263790817504
+    y: 68.0
+    z: 86.9913567068484
+    yaw: 175.58382
+    pitch: 6.599999
+  treehouse:
+    world: world
+    x: -43.65915939233853
+    y: 70.0
+    z: 1060.108110869364
+    yaw: -89.27222
+    pitch: 0.89986366
+  foresthouse:
+    world: world
+    x: 994.2129233765712
+    y: 63.0
+    z: 704.1713482007344
+    yaw: -204.19702
+    pitch: 0.6007376
+  endportal:
+    world: world
+    x: -613.9213678477366
+    y: 34.0
+    z: -5303.92189507462
+    yaw: 310.66006
+    pitch: 29.84998
+logoutlocation:
+  world: world
+  x: 336.13753294956007
+  y: 106.66289708609605
+  z: 419.69298298483227
+  yaw: 266.019
+  pitch: 14.849935
+afk: false
+money: '134017.0'
+muted: false
+powertools:
+  '402':
+  - kittycannon
+  '385':
+  - fireball
+  - kittycannon
+  - tnt
+  '280':
+  - minecraft:skeleton
+powertoolsenabled: true

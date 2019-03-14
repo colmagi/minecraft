@@ -1,0 +1,15 @@
+hologram:
+  '1':
+    location: '{"w":"world","x":-3.038626061402748,"y":116,"z":0.6538171479398596}'
+    lines: '[{"line":0,"text":"§aSurvival","uuid":"40674af5-1800-474e-8acd-99c7def9bec8"},{"line":1,"text":"§7Build
+      and thrive!","uuid":"142c2797-0fdf-408d-9622-10b839773e9e"}]'
+  '2':
+    location: '{"w":"world","x":0.7249655036944803,"y":116,"z":4.566139766974353}'
+    lines: '[{"line":0,"text":"§4Coming soon...","uuid":"6932e4b7-e79c-4fd5-87fe-126be62413c4"}]'
+  '4':
+    location: '{"w":"world","x":0.13919787472293543,"y":116,"z":-3.505594580108076}'
+    lines: '[{"line":0,"text":"§4Coming soon...","uuid":"b2bce0b8-9df1-42a0-973f-136ae46deb0b"}]'
+  '3':
+    location: '{"w":"world","x":5.413856065037725,"y":116,"z":0.3912080347831297}'
+    lines: '[{"line":0,"text":"§4Factions","uuid":"ce0b8453-4aed-4517-8f46-a16b35ab5f86"},{"line":1,"text":"§7Fight
+      to become the strongest Faction!","uuid":"54a3cb51-4e8d-4483-833f-dd89c1b104d9"}]'

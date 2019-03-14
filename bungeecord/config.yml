@@ -1,0 +1,56 @@
+connection_throttle_limit: 3
+timeout: 30000
+online_mode: true
+log_commands: false
+network_compression_threshold: 256
+listeners:
+- query_port: 25577
+  motd: '&1ColmagiCraft!'
+  priorities:
+  - lobby
+  bind_local_address: true
+  tab_list: SERVER
+  query_enabled: false
+  host: 0.0.0.0:25565
+  forced_hosts:
+    pvp.md-5.net: pvp
+  max_players: 250
+  tab_size: 60
+  ping_passthrough: false
+  force_default_server: true
+  proxy_protocol: false
+connection_throttle: 0
+groups:
+  md_5:
+  - admin
+log_pings: true
+ip_forward: true
+prevent_proxy_connections: false
+forge_support: false
+disabled_commands:
+- disabledcommandhere
+stats: 5b256755-dd59-4a88-b710-0ee60d5390dc
+permissions:
+  default:
+  - bungeecord.command.server
+  - bungeecord.command.list
+  admin:
+  - bungeecord.command.alert
+  - bungeecord.command.end
+  - bungeecord.command.ip
+  - bungeecord.command.reload
+servers:
+  survival:
+    motd: '&1Survival Fun!'
+    address: survival:25565
+    restricted: false
+  lobby:
+    motd: '&b&l&m--&9&8&l[&r &3&lColmagiCraft &8&l]&b&l&m--&8&l[ &bSurvival/Facs&8&l]&b&l&m--------&b&l&m
+      ---&8&l[ &b1.13&8&l ]&b&m----&8&l[&r &b &lFACTIONS ARE UP! &8&l]&b&l&m-                                                        '
+    address: hub:25565
+    restricted: false
+  factions:
+    motd: '&1Create a Faction!'
+    address: factions:25565
+    restricted: false
+player_limit: -1

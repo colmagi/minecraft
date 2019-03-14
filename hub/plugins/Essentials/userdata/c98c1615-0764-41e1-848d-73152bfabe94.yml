@@ -1,0 +1,165 @@
+afk: false
+nickname: §7§kii§4The§3Real§aColmagi§7§kii
+timestamps:
+  lastteleport: 1542673746492
+  logout: 1552408966365
+  login: 1552408955030
+  kits:
+    starter: 1489537481266
+    veteran: 1489547195818
+    legend: 1489635881026
+    wood: 1489539348224
+lastlocation:
+  world: world
+  x: 6.574121470345897
+  y: 109.26610211870575
+  z: 1.8939542279716708
+  yaw: 86.15235
+  pitch: -89.02728
+homes:
+  village:
+    world: world
+    x: 387.1160349839725
+    y: 69.0
+    z: 712.5700420533183
+    yaw: -68.07552
+    pitch: 22.979338
+  who:
+    world: world
+    x: 390.7134951561766
+    y: 65.0
+    z: -2173.9146831339203
+    yaw: 186.97937
+    pitch: 28.60425
+  blaze:
+    world: world_nether
+    x: -158.2417449890494
+    y: 58.0
+    z: 155.30902023629903
+    yaw: -278.2799
+    pitch: 13.28334
+  bluegamer:
+    world: world
+    x: 1365.1947954109173
+    y: 64.0
+    z: -200.45317183169615
+    yaw: -58.33329
+    pitch: 2.2657819
+  top:
+    world: world
+    x: 223.3228677095775
+    y: 162.0
+    z: 490.164437099884
+    yaw: -7.4611816
+    pitch: 68.34048
+  maplebase:
+    world: world
+    x: -221.97641586644934
+    y: 43.0
+    z: -3612.825350545285
+    yaw: -336.6455
+    pitch: 16.974253
+  optivat:
+    world: world
+    x: 226.42221562244492
+    y: 69.0
+    z: 491.0596389465073
+    yaw: -107.5874
+    pitch: 33.641083
+  cabin:
+    world: world
+    x: -170.16720450751387
+    y: 64.0
+    z: -174.9535430919685
+    yaw: 327.01538
+    pitch: 9.676469
+  coolassvillage:
+    world: world
+    x: 691.4103759619045
+    y: 63.9375
+    z: -1212.2392084707192
+    yaw: 91.26648
+    pitch: 15.942275
+  mountains:
+    world: world
+    x: 1571.9433585870336
+    y: 75.0
+    z: -973.9345863255395
+    yaw: 35.00456
+    pitch: -5.4222527
+  highmountain:
+    world: world
+    x: 3068.570503276997
+    y: 241.0
+    z: -4539.519816756599
+    yaw: 290.11563
+    pitch: 55.494514
+  icespikes:
+    world: world
+    x: 3569.791859933487
+    y: 72.0
+    z: -6253.292456653908
+    yaw: 190.1246
+    pitch: -0.6791736
+  jungle:
+    world: world
+    x: 6032.870466846986
+    y: 98.0
+    z: -10531.73254194181
+    yaw: 222.5403
+    pitch: 45.453106
+  fuzzy:
+    world: world
+    x: 166.55405372464338
+    y: 75.0
+    z: -3716.064146622121
+    yaw: 32.84395
+    pitch: 32.40715
+  nuggy:
+    world: world
+    x: -2316.666565130001
+    y: 40.0
+    z: -6535.773748204178
+    yaw: -272.09143
+    pitch: 7.3529267
+  mall:
+    world: world
+    x: 924.49158600723
+    y: 77.0
+    z: -994.0690505887443
+    yaw: -206.22076
+    pitch: -1.0265977
+  coolhouse:
+    world: world
+    x: 1289.9523841135115
+    y: 78.0
+    z: 1228.0541495246207
+    yaw: 73.76099
+    pitch: 21.386656
+  destroyedtree:
+    world: world
+    x: 355.31696685188365
+    y: 141.0
+    z: 832.9476746575467
+    yaw: 21.820429
+    pitch: 31.507706
+logoutlocation:
+  world: world
+  x: -18.644159959559083
+  y: 115.0
+  z: 0.31237971900865213
+  yaw: 88.49
+  pitch: 11.468681
+lastAccountName: TheRealColmagi
+ipAddress: 192.168.50.177
+powertools:
+  '46':
+  - antioch
+  '289':
+  - fireball
+  '280':
+  - fireball
+  '369':
+  - smite therealcolmagi
+godmode: false
+money: '0'

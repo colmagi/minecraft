@@ -1,0 +1,10 @@
+docker run \
+    --network dev-net \
+    --name survival \
+    -p 0.0.0.0:25566:25565 \
+    -it \
+    -d \
+    -v /home/james/spigot-data/survival:/var/lib/minecraft \
+    -e DEFAULT_OP=dinnerbone \
+    -e MINECRAFT_EULA=true \
+    colmagi/survival

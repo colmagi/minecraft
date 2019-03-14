@@ -1,0 +1,22 @@
+lastAccountName: Starfrost_Dragon
+timestamps:
+  login: 1542507707492
+  lastteleport: 1542511452083
+  kits:
+    starter: 1542510602499
+  logout: 1542511706114
+ipAddress: 108.73.19.150
+lastlocation:
+  world: world
+  x: 1.3609483622106846
+  y: 66.0
+  z: 12.654986611364018
+  yaw: 101.63504
+  pitch: 14.860149
+logoutlocation:
+  world: world
+  x: 0.5
+  y: 67.0
+  z: 0.5
+  yaw: 2.0349054
+  pitch: 9.010143

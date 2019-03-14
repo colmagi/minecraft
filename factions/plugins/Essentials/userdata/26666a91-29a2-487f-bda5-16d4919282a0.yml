@@ -1,0 +1,95 @@
+lastAccountName: Olli_Kop
+timestamps:
+  login: 1494287555070
+  lastteleport: 1494287666543
+  logout: 1494288633721
+  kits:
+    starter: 1483418666321
+    veteran: 1489546956215
+    legend: 1489537447001
+    wood: 1489540195057
+  lastheal: 1489547281811
+ipAddress: 68.97.65.69
+lastlocation:
+  world: world
+  x: 577.3903394845227
+  y: 95.38172868612764
+  z: 616.6190016497341
+  yaw: 329.4203
+  pitch: 25.712336
+logoutlocation:
+  world: world
+  x: -7432.854970368217
+  y: 59.211258990838495
+  z: 274.7205666862503
+  yaw: -355.6222
+  pitch: 6.000078
+homes:
+  home:
+    world: world
+    x: -222.47430621269592
+    y: 43.0
+    z: -3620.3176574486192
+    yaw: 142.7258
+    pitch: -0.6002375
+  blue:
+    world: world
+    x: 1356.9405378818285
+    y: 74.0
+    z: -200.019829589372
+    yaw: 308.98795
+    pitch: 15.600001
+  home2:
+    world: world
+    x: -167.2481767326893
+    y: 70.0
+    z: -162.88333828005366
+    yaw: 27.828041
+    pitch: 22.259161
+  far:
+    world: world
+    x: 2705.503326712916
+    y: 98.0
+    z: -11326.516944894802
+    yaw: 257.25348
+    pitch: 40.65001
+  home3:
+    world: world
+    x: -2332.2281340356653
+    y: 40.0
+    z: -6536.019675055613
+    yaw: -91.61865
+    pitch: 2.7001324
+  end:
+    world: world_the_end
+    x: -31.517145647760916
+    y: 94.0
+    z: -22.053241313083994
+    yaw: -72.749756
+    pitch: 11.850182
+  'no':
+    world: world
+    x: 386.2787507392606
+    y: 4.0
+    z: 754.3205524234032
+    yaw: -17.298035
+    pitch: 26.850065
+  temple2:
+    world: world
+    x: -1513.5222560069758
+    y: 47.0
+    z: -3878.251576215997
+    yaw: -176.47571
+    pitch: 14.399999
+  home1:
+    world: world
+    x: -7334.0038909665645
+    y: 67.0
+    z: 117.17745183331921
+    yaw: -271.6217
+    pitch: 2.4000964
+godmode: true
+nickname: §c§kW§c§nW§6§na§e§nt§a§ne§9§nr§b§nM§5§ne§c§nl§6§no§e§nn§a§nM§9§na§b§nn§b§n§kW§0
+money: '0'
+afk: false
+powertools: {}

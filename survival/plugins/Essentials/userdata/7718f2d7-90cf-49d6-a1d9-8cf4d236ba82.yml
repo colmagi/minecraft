@@ -1,0 +1,29 @@
+lastAccountName: Paul_Resmer
+timestamps:
+  login: 1542691097391
+  lastteleport: 1542690222369
+  logout: 1542691208027
+ipAddress: 47.188.49.23
+lastlocation:
+  world: world
+  x: 0.2519638395459794
+  y: 67.0
+  z: 3.428690480831134
+  yaw: -22.019745
+  pitch: 67.48312
+homes:
+  home:
+    world: world
+    x: 13495.575785572903
+    y: 61.0
+    z: -1414.0903138844249
+    yaw: -112.26805
+    pitch: 34.06362
+logoutlocation:
+  world: world
+  x: 51.63123976777724
+  y: 67.0
+  z: 256.1295223645444
+  yaw: 90.567986
+  pitch: 21.630056
+money: '2981.0'

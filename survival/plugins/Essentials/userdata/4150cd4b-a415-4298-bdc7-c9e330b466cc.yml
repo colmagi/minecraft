@@ -1,0 +1,58 @@
+timestamps:
+  lastteleport: 1543165082932
+  logout: 1543035481234
+  login: 1543164563035
+  kits:
+    elite: 1542512246201
+    starter: 1542589532422
+    veteran: 1542511951974
+    wood: 1542732531191
+  mute: 0
+lastlocation:
+  world: world
+  x: 383.1056176554215
+  y: 7.0
+  z: 362.4541960100102
+  yaw: 92.899124
+  pitch: 23.200539
+logoutlocation:
+  world: world
+  x: 388.3558518908674
+  y: 51.0
+  z: 353.03342474750895
+  yaw: 82.56654
+  pitch: 41.07171
+lastAccountName: JohnProdman
+ipAddress: 76.186.116.150
+money: '0.3408333333334'
+muted: false
+homes:
+  home:
+    world: world
+    x: 396.48892915111446
+    y: 59.0
+    z: 340.1078385933828
+    yaw: -90.695724
+    pitch: 12.083704
+  portal:
+    world: world
+    x: 1619.0903770334005
+    y: 34.0
+    z: -242.77101501413983
+    yaw: -9.915848
+    pitch: 16.349995
+  old:
+    world: world
+    x: 160.3247709344833
+    y: 65.0
+    z: -3708.7278836139562
+    yaw: -90.37335
+    pitch: 20.100136
+  village:
+    world: world
+    x: 56.975896207217865
+    y: 70.0
+    z: 1181.7848506541823
+    yaw: 66.78462
+    pitch: 9.749883
+afk: false

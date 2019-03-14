@@ -1,0 +1,35 @@
+timestamps:
+  lastteleport: 1541742479461
+  logout: 1541742488709
+  login: 1541742451344
+  kits:
+    starter: 1494889295121
+    wood: 1489625885855
+  mute: 0
+lastlocation:
+  world: world
+  x: 12.258768454955817
+  y: 72.0
+  z: -3913.8069587892633
+  yaw: 167.9014
+  pitch: 19.949968
+logoutlocation:
+  world: world
+  x: -121.5
+  y: 77.0
+  z: 83.5
+  yaw: 107.9014
+  pitch: 37.049854
+lastAccountName: JohnProdman
+ipAddress: 76.186.116.150
+money: '0'
+muted: false
+homes:
+  home:
+    world: world
+    x: 12.331157893199073
+    y: 72.0
+    z: -3914.005241681179
+    yaw: -181.72668
+    pitch: 29.99997
+afk: false

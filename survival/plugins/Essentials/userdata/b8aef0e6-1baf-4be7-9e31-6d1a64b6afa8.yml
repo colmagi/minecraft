@@ -1,0 +1,30 @@
+lastAccountName: xhellsky_
+timestamps:
+  login: 1540429428438
+  lastteleport: 1540344428152
+  logout: 1540429750248
+  kits:
+    starter: 1540341911175
+ipAddress: 47.187.213.180
+lastlocation:
+  world: world
+  x: 1155.7845729115681
+  y: 92.0
+  z: -922.6999999880791
+  yaw: -348.05136
+  pitch: -6.283224
+logoutlocation:
+  world: world
+  x: 40.49443896802657
+  y: 63.0
+  z: -46.673667761338365
+  yaw: 227.22299
+  pitch: 31.78921
+homes:
+  home:
+    world: world
+    x: 0.2953199808108681
+    y: 67.0
+    z: 0.4763857524195849
+    yaw: 172.58472
+    pitch: -0.8898791

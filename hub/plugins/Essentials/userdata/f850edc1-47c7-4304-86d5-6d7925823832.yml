@@ -1,0 +1,29 @@
+lastAccountName: ItzGaVinJ
+timestamps:
+  login: 1483486364047
+  lastteleport: 1483491517836
+  logout: 1483492886747
+ipAddress: 192.34.201.11
+lastlocation:
+  world: world
+  x: 372.51249998807907
+  y: 68.0
+  z: 709.7552756272196
+  yaw: 261.87213
+  pitch: 40.62292
+money: '0'
+homes:
+  home:
+    world: world
+    x: 374.858574227216
+    y: 68.0
+    z: 712.3651650302403
+    yaw: -183.86255
+    pitch: 28.94784
+logoutlocation:
+  world: world
+  x: 452.30000001192093
+  y: 64.0
+  z: 612.6459934242882
+  yaw: 284.86157
+  pitch: 10.167416

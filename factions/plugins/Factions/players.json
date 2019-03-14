@@ -1,0 +1,29 @@
+{
+  "7961a874-c35f-4f34-a0d1-37205c235291": {
+    "factionId": "2",
+    "role": "MEMBER",
+    "title": "",
+    "power": 10.0,
+    "powerBoost": 0.0,
+    "lastPowerUpdateTime": 1541740136340,
+    "lastLoginTime": 1541740136340
+  },
+  "c98c1615-0764-41e1-848d-73152bfabe94": {
+    "factionId": "2",
+    "role": "MEMBER",
+    "title": "",
+    "power": 10.0,
+    "powerBoost": 0.0,
+    "lastPowerUpdateTime": 1541740231924,
+    "lastLoginTime": 1541740231924
+  },
+  "0f9d4172-c235-4bd2-9897-490c4a93ddfe": {
+    "factionId": "2",
+    "role": "LEADER",
+    "title": "",
+    "power": 10.0,
+    "powerBoost": 0.0,
+    "lastPowerUpdateTime": 1541740158877,
+    "lastLoginTime": 1541740158877
+  }
+}

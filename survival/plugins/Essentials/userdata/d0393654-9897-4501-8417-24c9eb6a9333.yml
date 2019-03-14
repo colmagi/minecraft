@@ -1,0 +1,30 @@
+logoutlocation:
+  world: world
+  x: 1371.699999988079
+  y: 63.0
+  z: -232.69999998807907
+  yaw: -333.15356
+  pitch: 17.699938
+timestamps:
+  logout: 1483767006309
+  login: 1483763338946
+  kits:
+    starter: 1483762848589
+  lastteleport: 1483766934457
+lastAccountName: badmaner
+ipAddress: 69.92.192.10
+lastlocation:
+  world: world
+  x: 454.4109747856662
+  y: 88.0
+  z: 631.3000000119209
+  yaw: -139.19931
+  pitch: -22.350012
+homes:
+  home:
+    world: world
+    x: 1370.3631952963717
+    y: 63.0
+    z: -231.43090143345995
+    yaw: 18.746626
+    pitch: 20.54998

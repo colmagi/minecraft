@@ -1,0 +1,31 @@
+lastAccountName: WendadonPlayz_YT
+timestamps:
+  login: 1494629856238
+  lastteleport: 1494196177404
+  kits:
+    starter: 1489537275950
+  logout: 1494629871227
+ipAddress: 67.173.67.233
+lastlocation:
+  world: world
+  x: 0.37037218360870333
+  y: 116.0
+  z: 0.6358167615506686
+  yaw: -270.16718
+  pitch: 2.0994077
+homes:
+  home:
+    world: world
+    x: 232.98614819878577
+    y: 65.0
+    z: 431.6181411289669
+    yaw: 299.63843
+    pitch: 3.9006956
+money: '738.0'
+logoutlocation:
+  world: world
+  x: 2.704485551287052
+  y: 116.0
+  z: -0.2043232051737967
+  yaw: -288.61737
+  pitch: 55.349392

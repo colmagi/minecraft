@@ -1,0 +1,87 @@
+lastAccountName: 8Crazydude
+timestamps:
+  login: 1542595090901
+  lastteleport: 1494112799247
+  logout: 1542595116266
+  kits:
+    starter: 1483418666321
+    veteran: 1489546956215
+    legend: 1489537447001
+    wood: 1489540195057
+  lastheal: 1489547281811
+ipAddress: 68.97.81.33
+lastlocation:
+  world: world
+  x: 0.37037218360870333
+  y: 116.0
+  z: 0.6358167615506686
+  yaw: -270.16718
+  pitch: 2.0994077
+logoutlocation:
+  world: world
+  x: -17.87736197565185
+  y: 116.34738279163639
+  z: 0.2614154106567533
+  yaw: -256.6406
+  pitch: 9.242619
+homes:
+  home:
+    world: world
+    x: -222.47430621269592
+    y: 43.0
+    z: -3620.3176574486192
+    yaw: 142.7258
+    pitch: -0.6002375
+  blue:
+    world: world
+    x: 1356.9405378818285
+    y: 74.0
+    z: -200.019829589372
+    yaw: 308.98795
+    pitch: 15.600001
+  home2:
+    world: world
+    x: -167.2481767326893
+    y: 70.0
+    z: -162.88333828005366
+    yaw: 27.828041
+    pitch: 22.259161
+  far:
+    world: world
+    x: 2705.503326712916
+    y: 98.0
+    z: -11326.516944894802
+    yaw: 257.25348
+    pitch: 40.65001
+  home3:
+    world: world
+    x: -2332.2281340356653
+    y: 40.0
+    z: -6536.019675055613
+    yaw: -91.61865
+    pitch: 2.7001324
+  end:
+    world: world_the_end
+    x: -31.517145647760916
+    y: 94.0
+    z: -22.053241313083994
+    yaw: -72.749756
+    pitch: 11.850182
+  'no':
+    world: world
+    x: 386.2787507392606
+    y: 4.0
+    z: 754.3205524234032
+    yaw: -17.298035
+    pitch: 26.850065
+  temple2:
+    world: world
+    x: -1513.5222560069758
+    y: 47.0
+    z: -3878.251576215997
+    yaw: -176.47571
+    pitch: 14.399999
+godmode: true
+nickname: §c§kW§c§nW§6§na§e§nt§a§ne§9§nr§b§nM§5§ne§c§nl§6§no§e§nn§a§nM§9§na§b§nn§b§n§kW§0
+money: '0'
+afk: false

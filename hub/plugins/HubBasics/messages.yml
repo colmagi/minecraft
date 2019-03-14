@@ -1,0 +1,46 @@
+Command:
+  NoPermission: You don't have permission to execute this command!
+  PlayersOnly: This command is limited to players only!
+  UsagePrefix: Usage
+  ErrorOccurred: An error occurred
+  InputNotNumber: '{0} isn''t a number!'
+  NotFound: Unknown command, type /help for help.
+Holograms:
+  Usage:
+    Create: /holograms create <text>
+    Reset: /holograms reset <hologramID>
+    AddLine: /holograms addline <hologramID> <text>
+    Delete: /holograms delete <hologramID>
+    List: /holograms list
+  Error:
+    NotExist: Hologram {0} doesn't exist!
+  Success:
+    Create: Created hologram {0} successfully.
+    Reset: Hologram {0} was successfully reset.
+    AddLine: Added line to {0} successfully.
+    Delete: Deleted hologram {0} successfully.
+    List:
+      Prefix: Holograms
+      Empty: No holograms found.
+Hat:
+  Usage: /hat <id> [meta]
+  Success: Hat updated!
+Hub:
+  InvalidWorld: Invalid lobby world!
+  LocationUpdated: Lobby location updated!
+Warp:
+  Usage: /warps <name>
+  NotExist: Warp {0} does not exist!
+  Success: Teleported you to warp {0}.
+  DisabledGlobally: Warp module is disabled.
+  DisabledInWorld: Warp module is disabled in this world.
+SetWarp:
+  Usage: /setwarp <name>
+  AlreadyExist: Warp {0} already exists.
+  Success: Warp {0} set to your current location.
+DelWarp:
+  Usage: /delwarp <name>
+  NotExist: Warp {0} does not exist!
+  Success: Warp {0} deleted successfully.
+Warps:
+  Prefix: Warps
