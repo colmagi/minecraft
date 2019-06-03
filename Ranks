@@ -1,0 +1,63 @@
+Elite
+  commands:
+    afk
+    back
+    compass
+    near
+    craft
+    tpahere
+    2 homes
+ kits:
+    wood
+    elite
+    
+Veteran
+  commands:
+    hat
+    jump
+    fix
+    setwarp
+    4 homes
+    disguise as a chicken, cow, sheep, squid, pig
+    access to some trails
+    all elite perks
+ kits:   
+    veteran
+    
+Expert
+  commands:
+    ci
+    feed
+    nick
+    suicide
+    8 homes
+    disguise as a magma cube, slime, skeleton, spider, zombies
+    access to some more trails
+    all elite and veteran perks
+  kits:
+    expert
+    
+Master
+  commands:
+    fly
+    format chat and signs
+    16 homes
+    disguise as baby mobs, horse, creeper, enderman, blaze, zombie pigman
+    access to cloud trails
+    all elite, veteran, and expert perks
+  kits:
+    master
+
+Legend
+  commands:
+    echest
+    god
+    heal
+    32 homes
+    disguise as all mobs!
+    access to all trails!
+    all elite, veteran, expert, and master perks
+  kits:
+    legend
+    
+    
