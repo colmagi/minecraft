@@ -105,7 +105,7 @@ kits:
     - iron_helmet 1 protection:2 unbreaking:2 name:&1Expert's_Helmet lore:&1Forged_by_the_finest_blacksmiths!
     - iron_chestplate 1 protection:2 unbreaking:2 name:&1Expert's_Chestplate lore:&1Made_with_pristine_iron!
     - iron_leggings 1 protection:2 unbreaking:2 name:&1Expert's_Leggings lore:&1Great_protection_guaranteed!
-    - iron_boots 1 protection:2 unbreaking:2 name:&1Expert's_Boots lore:&1Quite Fashionable!
+    - iron_boots 1 protection:2 unbreaking:2 name:&1Expert's_Boots lore:&1Quite_Fashionable!
     - iron_sword 1 sharpness:2 unbreaking:2 name:&1Expert's_Sword lore:&1Destroy_Your_enemies!
     - iron_pickaxe 1 efficiency:2 unbreaking:2 name:&1Expert's_Pickaxe lore:&1Mine_some_diamonds!
     - iron_spade 1 efficiency:2 unbreaking:2 name:&1Expert's_Shovel lore:&1Dig_some_dirt!
@@ -116,12 +116,26 @@ kits:
     - bow 1 power:2 punch:1 unbreaking:2 name:&1Expert's_Bow lore:&1Pulverize_your_enemies!
     - arrow 48 name:&1Expert's_arrows
     - steak 24 name:&1Expert's_Steak
+  master:
+    delay: 86400
+    items:
+    - diamond_helmet 1 protection:1 durability:1 name:&6&lMaster's_Helmet lore:&8&oFit_for_a_King!
+    - diamond_chestplate 1 protection:1 durability:1 name:&6&lMaster's_Chestplate lore:&8&oThe_Armor_of_Conquerers!
+    - diamond_leggings 1 protection:1 durability:1 name:&6&lMaster's_Leggings lore:&8&oShiny_Pantaloons!
+    - diamond_boots 1 protection:1 durability:1 name:&6&lMaster's_Boots lore:&8&oComfy!
+    - diamond_sword 1 sharpness:1 durability:1 name:&6&lMaster's_Sword lore:&8&oForged_for_Champions!
+    - diamond_axe 1 efficiency:1 durability:1 name:&6&lMaster's_Axe lore:&8&oKnock_down_Forests!
+    - diamond_pickaxe 1 efficiency:1 durability:1 name:&6&lMaster's_Pickaxe
+      lore:&8&oMine_for_Days!
+    - diamond_spade 1 efficiency:1 durability:1 name:&a&lMaster's_Shovel lore:&8&oDig_up_the_Earth!
+    - bow 1 power:3 flame:1 unbreaking:2 name:&6&lMaster's_Bow lore:&6&lSnipe_the_Skies!
+    - arrow 64 name:&6&lMaster's_arrows
+    - steak 36 name:&6&lMaster's_Steak
   legend:
     delay: 86400
     items:
     - diamond_helmet 1 protection:3 durability:3 name:&a&lLegendary_Helmet lore:&8&oImbued_with_End_Crystals.
-    - diamond_chestplate 1 protection:3 durability:3 name:&a&lLegendary_Chestplate
-      lore:&8&oImbued_with_Crying_Obsidian.
+    - diamond_chestplate 1 protection:3 durability:3 name:&a&lLegendary_Chestplate lore:&8&oImbued_with_Crying_Obsidian.
     - diamond_leggings 1 protection:3 durability:3 name:&a&lLegendary_Leggings lore:&8&oImbued_with_Magma_Blocks.
     - diamond_boots 1 protection:3 durability:3 name:&a&lLegendary_Boots lore:&8&oImbued_with_Nether_Stars.
     - diamond_sword 1 sharpness:3 durability:3 name:&a&lLegendary_Sword lore:&8&oImbued_with_Dragon's_Breath.
