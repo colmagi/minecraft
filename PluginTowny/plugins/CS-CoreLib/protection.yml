@@ -1,0 +1,11 @@
+plugins:
+  Towny:
+    no-block-access: '&4&l! &cSorry, but the Plugin &4Towny &cdoes not allow you to
+      access this Block'
+    no-block-breaking: '&4&l! &cSorry, but the Plugin &4Towny &cdoes not allow you
+      to break this Block'
+  LWC:
+    no-block-access: '&4&l! &cSorry, but the Plugin &4LWC &cdoes not allow you to
+      access this Block'
+    no-block-breaking: '&4&l! &cSorry, but the Plugin &4LWC &cdoes not allow you to
+      break this Block'

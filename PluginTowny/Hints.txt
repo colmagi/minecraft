@@ -1,0 +1,5 @@
+Regen health 50% faster when sitting
+add to perms:
+- /near
+-/ping
+-tps 

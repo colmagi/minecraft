@@ -1,0 +1,31 @@
+lastAccountName: JohnProdman
+timestamps:
+  login: 1560813494842
+  logout: 1560806942588
+  lastteleport: 1560815058845
+ipAddress: 192.168.1.1
+lastlocation:
+  world: world
+  x: -216.5
+  y: 63.0
+  z: -50.57421863871538
+  yaw: 22.463568
+  pitch: 90.0
+afk: true
+logoutlocation:
+  world: world
+  x: -209.55860749146925
+  y: 63.0
+  z: -50.57998107943693
+  yaw: 44.89001
+  pitch: 55.518604
+money: '9987969899749.001'
+godmode: false
+homes:
+  oldspawn:
+    world: world
+    x: -215.60035985456804
+    y: 66.61372558068314
+    z: -40.17271342985924
+    yaw: 106.34838
+    pitch: 38.963734

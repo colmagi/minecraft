@@ -1,0 +1,23 @@
+lastAccountName: sharknanney
+timestamps:
+  login: 1560809399875
+  jail: 0
+  logout: 1560809460926
+ipAddress: 72.180.102.41
+lastlocation:
+  world: world
+  x: -619.1270910309297
+  y: 89.24918707874468
+  z: 15621.920995877199
+  yaw: -0.385437
+  pitch: 25.866304
+jailed: false
+money: '100000.0'
+godmode: false
+logoutlocation:
+  world: world
+  x: -598.5869066793617
+  y: 65.0
+  z: 15559.423729465614
+  yaw: -254.13928
+  pitch: 33.768703
