@@ -127,8 +127,8 @@ kits:
     - diamond_axe 1 efficiency:1 durability:1 name:&6&lMaster's_Axe lore:&8&oKnock_down_Forests!
     - diamond_pickaxe 1 efficiency:1 durability:1 name:&6&lMaster's_Pickaxe
       lore:&8&oMine_for_Days!
-    - diamond_spade 1 efficiency:1 durability:1 name:&a&lMaster's_Shovel lore:&8&oDig_up_the_Earth!
-    - bow 1 power:3 flame:1 unbreaking:2 name:&6&lMaster's_Bow lore:&6&lSnipe_the_Skies!
+    - diamond_spade 1 efficiency:1 durability:1 name:&6&lMaster's_Shovel lore:&8&oDig_up_the_Earth!
+    - bow 1 power:3 flame:1 unbreaking:2 name:&6&lMaster's_Bow lore:&8&oSnipe_the_Skies!
     - arrow 64 name:&6&lMaster's_arrows
     - steak 36 name:&6&lMaster's_Steak
   legend:
