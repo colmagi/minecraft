@@ -1,0 +1,1 @@
+for i in `docker ps -a|grep -v mysql|grep -v CONTAINER|cut -d ' ' -f1`; do docker rm $i; done

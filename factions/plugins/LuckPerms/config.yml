@@ -10,7 +10,7 @@
 # +------------------------------------------------------------------------+ #
 
 # The name of the server, used for server specific permissions. Set to 'global' to disable.
-server: survival
+server: factions
 
 # If users on this server should have their global permissions applied.
 # If set to false, only server specific permissions will apply for users on this server

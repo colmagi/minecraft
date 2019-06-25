@@ -5,6 +5,7 @@ docker run \
     -d \
     -it \
     -v /home/james/spigot-data/hub:/var/lib/minecraft \
+    -v /home/james/spigot-data/hub/plugins:/opt/minecraft/plugins \
     -e DEFAULT_OP=dinnerbone \
     -e MINECRAFT_EULA=true \
     colmagi/hub

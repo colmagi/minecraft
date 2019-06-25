@@ -5,6 +5,7 @@ docker run \
     -it \
     -d \
     -v /home/james/spigot-data/survival:/var/lib/minecraft \
+    -v /home/james/spigot-data/survival/plugins:/opt/minecraft/plugins \
     -e DEFAULT_OP=dinnerbone \
     -e MINECRAFT_EULA=true \
     colmagi/survival
