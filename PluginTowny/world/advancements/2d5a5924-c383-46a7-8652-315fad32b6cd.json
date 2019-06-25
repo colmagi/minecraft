@@ -1,25 +1,25 @@
 {
+  "minecraft:recipes/building_blocks/oak_planks": {
+    "criteria": {
+      "has_log": "2019-06-19 11:29:29 -0500"
+    },
+    "done": true
+  },
+  "minecraft:recipes/tools/clock": {
+    "criteria": {
+      "has_redstone": "2019-06-19 11:50:06 -0500"
+    },
+    "done": true
+  },
   "minecraft:recipes/transportation/dark_oak_boat": {
     "criteria": {
       "in_water": "2019-06-16 22:50:25 -0500"
     },
     "done": true
   },
-  "minecraft:recipes/transportation/birch_boat": {
+  "minecraft:recipes/tools/compass": {
     "criteria": {
-      "in_water": "2019-06-16 22:50:25 -0500"
-    },
-    "done": true
-  },
-  "minecraft:recipes/decorations/chest": {
-    "criteria": {
-      "has_lots_of_items": "2019-06-16 22:53:27 -0500"
-    },
-    "done": true
-  },
-  "minecraft:story/shiny_gear": {
-    "criteria": {
-      "diamond_chestplate": "2019-06-16 22:53:27 -0500"
+      "has_redstone": "2019-06-19 11:50:06 -0500"
     },
     "done": true
   },
@@ -32,14 +32,124 @@
   "minecraft:adventure/kill_all_mobs": {
     "criteria": {
       "minecraft:skeleton": "2019-06-16 23:02:15 -0500",
+      "minecraft:husk": "2019-06-19 11:44:48 -0500",
       "minecraft:vindicator": "2019-06-16 23:00:40 -0500",
       "minecraft:evoker": "2019-06-16 23:00:59 -0500"
     },
     "done": false
   },
+  "minecraft:recipes/redstone/piston": {
+    "criteria": {
+      "has_redstone": "2019-06-19 11:50:06 -0500"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/jungle_planks": {
+    "criteria": {
+      "has_log": "2019-06-19 11:32:49 -0500"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/iron_nugget_from_smelting": {
+    "criteria": {
+      "has_iron_axe": "2019-06-16 23:02:41 -0500"
+    },
+    "done": true
+  },
+  "minecraft:recipes/brewing/cauldron": {
+    "criteria": {
+      "has_water_bucket": "2019-06-19 11:49:07 -0500"
+    },
+    "done": true
+  },
+  "minecraft:adventure/adventuring_time": {
+    "criteria": {
+      "minecraft:mountains": "2019-06-16 22:52:50 -0500",
+      "minecraft:forest": "2019-06-16 23:06:04 -0500",
+      "minecraft:warm_ocean": "2019-06-16 22:49:50 -0500",
+      "minecraft:beach": "2019-06-19 11:53:43 -0500",
+      "minecraft:dark_forest": "2019-06-19 11:53:29 -0500",
+      "minecraft:river": "2019-06-19 11:48:27 -0500",
+      "minecraft:lukewarm_ocean": "2019-06-19 11:53:46 -0500",
+      "minecraft:plains": "2019-06-19 11:29:13 -0500"
+    },
+    "done": false
+  },
+  "minecraft:recipes/misc/bone_meal": {
+    "criteria": {
+      "has_bone": "2019-06-16 23:02:15 -0500"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/book": {
+    "criteria": {
+      "has_paper": "2019-06-19 12:18:14 -0500"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/redstone": {
+    "criteria": {
+      "has_redstone_block": "2019-06-19 11:40:45 -0500"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/charcoal": {
+    "criteria": {
+      "has_log": "2019-06-19 11:29:29 -0500"
+    },
+    "done": true
+  },
+  "minecraft:story/lava_bucket": {
+    "criteria": {
+      "lava_bucket": "2019-06-19 11:47:08 -0500"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/dried_kelp_from_smelting": {
+    "criteria": {
+      "has_kelp": "2019-06-19 11:32:22 -0500"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/redstone_torch": {
+    "criteria": {
+      "has_redstone": "2019-06-19 11:50:06 -0500"
+    },
+    "done": true
+  },
+  "minecraft:recipes/transportation/birch_boat": {
+    "criteria": {
+      "in_water": "2019-06-16 22:50:25 -0500"
+    },
+    "done": true
+  },
+  "minecraft:story/shiny_gear": {
+    "criteria": {
+      "diamond_chestplate": "2019-06-16 22:53:27 -0500"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/chest": {
+    "criteria": {
+      "has_lots_of_items": "2019-06-16 22:53:27 -0500"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/note_block": {
+    "criteria": {
+      "has_redstone": "2019-06-19 11:50:06 -0500"
+    },
+    "done": true
+  },
   "minecraft:story/upgrade_tools": {
     "criteria": {
       "stone_pickaxe": "2019-06-16 22:49:49 -0500"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/oak_wood": {
+    "criteria": {
+      "has_log": "2019-06-19 11:29:29 -0500"
     },
     "done": true
   },
@@ -61,6 +171,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/redstone/dropper": {
+    "criteria": {
+      "has_redstone": "2019-06-19 11:50:06 -0500"
+    },
+    "done": true
+  },
   "minecraft:adventure/root": {
     "criteria": {
       "killed_by_something": "2019-06-16 22:59:16 -0500"
@@ -76,26 +192,6 @@
   "minecraft:recipes/transportation/spruce_boat": {
     "criteria": {
       "in_water": "2019-06-16 22:50:25 -0500"
-    },
-    "done": true
-  },
-  "minecraft:recipes/misc/iron_nugget_from_smelting": {
-    "criteria": {
-      "has_iron_axe": "2019-06-16 23:02:41 -0500"
-    },
-    "done": true
-  },
-  "minecraft:adventure/adventuring_time": {
-    "criteria": {
-      "minecraft:forest": "2019-06-16 23:06:04 -0500",
-      "minecraft:mountains": "2019-06-16 22:52:50 -0500",
-      "minecraft:warm_ocean": "2019-06-16 22:49:50 -0500"
-    },
-    "done": false
-  },
-  "minecraft:recipes/misc/bone_meal": {
-    "criteria": {
-      "has_bone": "2019-06-16 23:02:15 -0500"
     },
     "done": true
   }

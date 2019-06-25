@@ -1,25 +1,25 @@
 lastAccountName: JohnProdman
 timestamps:
-  login: 1560813494842
-  logout: 1560806942588
-  lastteleport: 1560815058845
+  login: 1561344377213
+  logout: 1561344592140
+  lastteleport: 1560963050283
 ipAddress: 192.168.1.1
 lastlocation:
   world: world
-  x: -216.5
+  x: -216.49550324246795
   y: 63.0
-  z: -50.57421863871538
-  yaw: 22.463568
-  pitch: 90.0
-afk: true
+  z: -42.829213247927
+  yaw: 178.32574
+  pitch: 14.445714
+afk: false
 logoutlocation:
   world: world
-  x: -209.55860749146925
-  y: 63.0
-  z: -50.57998107943693
-  yaw: 44.89001
-  pitch: 55.518604
-money: '9987969899749.001'
+  x: -239.66337525590262
+  y: 69.18187038724776
+  z: 767.2028420595946
+  yaw: -116.08708
+  pitch: 43.466694
+money: '9987969999745.001'
 godmode: false
 homes:
   oldspawn:
@@ -29,3 +29,11 @@ homes:
     z: -40.17271342985924
     yaw: 106.34838
     pitch: 38.963734
+  random:
+    world: world
+    x: -308.5
+    y: 69.0
+    z: 761.5
+    yaw: 271.869
+    pitch: 87.99855
+nickname: §4Fluffy§6Bear

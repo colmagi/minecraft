@@ -1,12 +1,12 @@
 name=Logitech
-residents=iMine03
+residents=iMine03,JohnProdman,KongKing3751
 mayor=iMine03
 assistants=
 
 
-townBoard=/town set board [msg]
+townBoard=Founding Town of Bedford
 tag=
-protectionStatus=residentBuild,residentDestroy,residentSwitch,residentItemUse,pvp
+protectionStatus=residentBuild,residentDestroy,residentSwitch,residentItemUse
 bonusBlocks=0
 purchasedBlocks=0
 taxpercent=false
@@ -26,6 +26,6 @@ uuid=605e4608-4b83-4c50-bbeb-7dad2996088a
 registered=1560813566577
 homeBlock=world,-14,-3
 spawn=world,-221.30158330974209,69.2826026549533,-39.361940476107414,45.653984,204.92346
-outpostspawns=
+outpostspawns=world,-295.788094101309,91.6576014033241,794.1751451596533,15.196129,269.62622;
 jailspawns=
 outlaws=

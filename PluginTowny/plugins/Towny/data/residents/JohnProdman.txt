@@ -1,4 +1,4 @@
-lastOnline=1560814869718
+lastOnline=1561344592140
 registered=1560813494821
 isNPC=false
 isJailed=false
@@ -6,7 +6,7 @@ JailSpawn=0
 JailTown=
 title=
 surname=
-town=testtown
+town=Logitech
 town-ranks=
 nation-ranks=
 friends=

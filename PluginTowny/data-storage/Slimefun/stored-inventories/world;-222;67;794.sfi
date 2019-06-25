@@ -1,0 +1,15 @@
+preset: ELECTRIC_FURNACE_3
+'24':
+  ==: org.bukkit.inventory.ItemStack
+  v: 1631
+  type: DRIED_KELP
+  amount: 64
+'25':
+  ==: org.bukkit.inventory.ItemStack
+  v: 1631
+  type: DRIED_KELP
+  amount: 64
+'19':
+  ==: org.bukkit.inventory.ItemStack
+  v: 1631
+  type: KELP

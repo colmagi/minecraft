@@ -17,6 +17,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/tools/compass": {
+    "criteria": {
+      "has_redstone": "2019-06-19 11:32:15 -0500"
+    },
+    "done": true
+  },
   "minecraft:adventure/kill_a_mob": {
     "criteria": {
       "minecraft:creeper": "2019-06-16 23:02:50 -0500"
@@ -41,13 +47,13 @@
     },
     "done": true
   },
-  "minecraft:recipes/decorations/white_bed": {
+  "minecraft:recipes/building_blocks/green_wool": {
     "criteria": {
       "has_white_wool": "2019-06-16 19:58:45 -0500"
     },
     "done": true
   },
-  "minecraft:recipes/building_blocks/green_wool": {
+  "minecraft:recipes/decorations/white_bed": {
     "criteria": {
       "has_white_wool": "2019-06-16 19:58:45 -0500"
     },
@@ -68,16 +74,19 @@
   "minecraft:adventure/adventuring_time": {
     "criteria": {
       "minecraft:jungle_edge": "2019-06-16 20:18:00 -0500",
-      "minecraft:forest": "2019-06-16 19:41:08 -0500",
       "minecraft:mountains": "2019-06-16 19:47:01 -0500",
+      "minecraft:forest": "2019-06-16 19:41:08 -0500",
+      "minecraft:taiga": "2019-06-17 22:49:18 -0500",
       "minecraft:deep_cold_ocean": "2019-06-16 22:32:13 -0500",
       "minecraft:snowy_tundra": "2019-06-16 22:33:22 -0500",
+      "minecraft:taiga_hills": "2019-06-17 22:49:50 -0500",
       "minecraft:jungle": "2019-06-16 20:18:46 -0500",
       "minecraft:jungle_hills": "2019-06-16 22:35:27 -0500",
       "minecraft:warm_ocean": "2019-06-16 19:43:56 -0500",
       "minecraft:beach": "2019-06-16 19:43:40 -0500",
-      "minecraft:river": "2019-06-16 19:43:14 -0500",
+      "minecraft:dark_forest": "2019-06-19 11:48:32 -0500",
       "minecraft:lukewarm_ocean": "2019-06-16 19:43:15 -0500",
+      "minecraft:river": "2019-06-16 19:43:14 -0500",
       "minecraft:snowy_taiga": "2019-06-16 22:33:38 -0500",
       "minecraft:wooded_mountains": "2019-06-16 19:53:16 -0500",
       "minecraft:wooded_hills": "2019-06-16 20:16:36 -0500",
@@ -128,6 +137,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/food/dried_kelp_from_smelting": {
+    "criteria": {
+      "has_kelp": "2019-06-19 11:50:14 -0500"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/ladder": {
     "criteria": {
       "has_stick": "2019-06-16 19:53:07 -0500"
@@ -137,6 +152,12 @@
   "minecraft:husbandry/root": {
     "criteria": {
       "consumed_item": "2019-06-16 19:59:55 -0500"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/redstone_torch": {
+    "criteria": {
+      "has_redstone": "2019-06-19 11:32:15 -0500"
     },
     "done": true
   },
@@ -161,6 +182,12 @@
   "minecraft:recipes/decorations/painting": {
     "criteria": {
       "has_wool": "2019-06-16 19:58:45 -0500"
+    },
+    "done": true
+  },
+  "minecraft:end/levitate": {
+    "criteria": {
+      "levitated": "2019-06-17 23:06:58 -0500"
     },
     "done": true
   },
@@ -260,19 +287,25 @@
     },
     "done": true
   },
+  "minecraft:recipes/tools/clock": {
+    "criteria": {
+      "has_redstone": "2019-06-19 11:32:15 -0500"
+    },
+    "done": true
+  },
   "minecraft:recipes/transportation/dark_oak_boat": {
     "criteria": {
       "in_water": "2019-06-16 19:43:17 -0500"
     },
     "done": true
   },
-  "minecraft:recipes/tools/diamond_pickaxe": {
+  "minecraft:recipes/tools/diamond_hoe": {
     "criteria": {
       "has_diamond": "2019-06-16 21:28:19 -0500"
     },
     "done": true
   },
-  "minecraft:recipes/tools/diamond_hoe": {
+  "minecraft:recipes/tools/diamond_pickaxe": {
     "criteria": {
       "has_diamond": "2019-06-16 21:28:19 -0500"
     },
@@ -325,6 +358,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/redstone/piston": {
+    "criteria": {
+      "has_redstone": "2019-06-19 11:32:15 -0500"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/white_carpet": {
     "criteria": {
       "has_white_wool": "2019-06-16 19:58:45 -0500"
@@ -334,6 +373,12 @@
   "minecraft:recipes/decorations/ender_chest": {
     "criteria": {
       "has_ender_eye": "2019-06-17 18:53:33 -0500"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/cooked_cod": {
+    "criteria": {
+      "has_cod": "2019-06-20 11:45:53 -0500"
     },
     "done": true
   },
@@ -367,6 +412,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/redstone/note_block": {
+    "criteria": {
+      "has_redstone": "2019-06-19 11:32:15 -0500"
+    },
+    "done": true
+  },
   "minecraft:story/mine_diamond": {
     "criteria": {
       "diamond": "2019-06-16 21:28:19 -0500"
@@ -391,13 +442,13 @@
     },
     "done": true
   },
-  "minecraft:recipes/building_blocks/red_wool": {
+  "minecraft:recipes/decorations/white_banner": {
     "criteria": {
       "has_white_wool": "2019-06-16 19:58:45 -0500"
     },
     "done": true
   },
-  "minecraft:recipes/decorations/white_banner": {
+  "minecraft:recipes/building_blocks/red_wool": {
     "criteria": {
       "has_white_wool": "2019-06-16 19:58:45 -0500"
     },
@@ -406,6 +457,12 @@
   "minecraft:recipes/transportation/oak_boat": {
     "criteria": {
       "in_water": "2019-06-16 19:43:17 -0500"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/dropper": {
+    "criteria": {
+      "has_redstone": "2019-06-19 11:32:15 -0500"
     },
     "done": true
   },

@@ -1,4 +1,4 @@
-towns=Logitech,testtown
+towns=Logitech
 
 pvp=true
 forcepvp=false

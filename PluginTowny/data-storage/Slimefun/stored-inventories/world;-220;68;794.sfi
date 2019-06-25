@@ -1,0 +1,79 @@
+preset: CARGO_NODE_OUTPUT_ADVANCED
+'41':
+  ==: org.bukkit.inventory.ItemStack
+  v: 1631
+  type: PLAYER_HEAD
+  meta:
+    ==: ItemMeta
+    meta-type: SKULL
+    display-name: §bChannel
+    lore:
+    - ''
+    - §e> Click to decrease the Channel ID by 1
+    internal: H4sIAAAAAAAAAE2LzW6CQBgAvzZtgqSP0SvJLr9y8GC0qWsEyo/g7g1wUdZFDUIrPlcfsBx7nMyMCqDCW3zqpfxqL1UtuQLPZA/vOnJcVJVTrSxcRzM5rrS80A2NV469t42pY1hIBXWcrrztan6bgNLxe9e3/KYCwJMCr2kuew6/fFgjtjui/W4ty4HYIycxkgERV4ec06FYEJs0o1/N7c3g/mutLs8sSY31kZ3DvmhStDEiyVcRLpvtNxMEB4ms2fJk+oLiICMm1bcDfYRWsDxgT6QiSCLpJfLEPsNHkLEjW85NmnimJw6IJh+Wr9M7FeWPL0pMM1+QM3arcDYDUODFzxsOk0W8uLR8UxcAfxwRP8kuAQAA
+    skull-owner: CSCoreLib
+41_extra:
+  custom-skull: eyJ0ZXh0dXJlcyI6eyJTS0lOIjp7InVybCI6Imh0dHA6Ly90ZXh0dXJlcy5taW5lY3JhZnQubmV0L3RleHR1cmUvZjI1OTliZDk4NjY1OWI4Y2UyYzQ5ODg1MjVjOTRlMTlkZGQzOWZhZDA4YTM4Mjg0YTE5N2YxYjcwNjc1YWNjIn19fQ==
+  custom-skullOwner: CSCoreLib
+'42':
+  ==: org.bukkit.inventory.ItemStack
+  v: 1631
+  type: ORANGE_WOOL
+  meta:
+    ==: ItemMeta
+    meta-type: UNSPECIFIC
+    display-name: '§bChannel ID: §32'
+'43':
+  ==: org.bukkit.inventory.ItemStack
+  v: 1631
+  type: PLAYER_HEAD
+  meta:
+    ==: ItemMeta
+    meta-type: SKULL
+    display-name: §bChannel
+    lore:
+    - ''
+    - §e> Click to increase the Channel ID by 1
+    internal: H4sIAAAAAAAAAE2LzW6CQBhFvzZtgqSP0S3JOAjqwkWjgkME6k+pM7sBhgLOqEFQ4bn6gGXZ5T3nXB1Ah7fdsZHyszpnhRQaPJMU3pMRT7hIYiNLhDBGQ4wNntncwClCfDQx0/FkrIPeny6iqgtxHYBWi0fdVOKqA8CTBq8Rl42AX9F6iB1ylB48mbTE7vd+h2RIysuYnKI2nhObqN6vPux1O/3XWjX/tiQ1vZydNk2sIrQ2t1KstsNEfd1o56lwv7zTbmMyd3kPFp4MXCf3yzxnJStp9/OgmKLQdcpABT3z+84p/C5S4SI/0vJo+dgpKSYWc5kM9ktMTsNptpnNADR4CbgSMJjv5udKrIsY4A8Tt7HbLgEAAA==
+    skull-owner: CSCoreLib
+43_extra:
+  custom-skull: eyJ0ZXh0dXJlcyI6eyJTS0lOIjp7InVybCI6Imh0dHA6Ly90ZXh0dXJlcy5taW5lY3JhZnQubmV0L3RleHR1cmUvYzJmOTEwYzQ3ZGEwNDJlNGFhMjhhZjZjYzgxY2Y0OGFjNmNhZjM3ZGFiMzVmODhkYjk5M2FjY2I5ZGZlNTE2In19fQ==
+  custom-skullOwner: CSCoreLib
+'15':
+  ==: org.bukkit.inventory.ItemStack
+  v: 1631
+  type: WHITE_WOOL
+  meta:
+    ==: ItemMeta
+    meta-type: UNSPECIFIC
+    display-name: '§7Type: §rWhitelist'
+    lore:
+    - ''
+    - §e> Click to change it to Blacklist
+'16':
+  ==: org.bukkit.inventory.ItemStack
+  v: 1631
+  type: STONE_SWORD
+  amount: 20
+  meta:
+    ==: ItemMeta
+    meta-type: UNSPECIFIC
+    display-name: '§7Include Sub-IDs/Durability: §4✘'
+    lore:
+    - ''
+    - §e> Click to toggle whether the Durability has to match
+'19':
+  ==: org.bukkit.inventory.ItemStack
+  v: 1631
+  type: KELP
+'25':
+  ==: org.bukkit.inventory.ItemStack
+  v: 1631
+  type: MAP
+  meta:
+    ==: ItemMeta
+    meta-type: UNSPECIFIC
+    display-name: '§7Include Lore: §2✔'
+    lore:
+    - ''
+    - §e> Click to toggle whether the Lore has to match
