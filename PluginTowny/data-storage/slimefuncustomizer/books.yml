@@ -1,0 +1,82 @@
+masterID: 19845
+'19845':
+  id: 19845
+  name: §6§lProdder Stick
+  cost: 20
+  crafter: 5
+  makes:
+    ==: org.bukkit.inventory.ItemStack
+    v: 1631
+    type: DIAMOND_SWORD
+    meta:
+      ==: ItemMeta
+      meta-type: UNSPECIFIC
+      enchants:
+        PROTECTION_ENVIRONMENTAL: 127
+        PROTECTION_FIRE: 127
+        PROTECTION_FALL: 127
+        PROTECTION_EXPLOSIONS: 127
+        PROTECTION_PROJECTILE: 127
+        OXYGEN: 127
+        WATER_WORKER: 127
+        THORNS: 127
+        DEPTH_STRIDER: 127
+        FROST_WALKER: 127
+        DAMAGE_ALL: 127
+        DAMAGE_UNDEAD: 127
+        DAMAGE_ARTHROPODS: 127
+        KNOCKBACK: 127
+        FIRE_ASPECT: 127
+        LOOT_BONUS_MOBS: 127
+        SWEEPING_EDGE: 127
+        DIG_SPEED: 127
+        DURABILITY: 127
+        LOOT_BONUS_BLOCKS: 127
+        ARROW_DAMAGE: 127
+        ARROW_KNOCKBACK: 127
+        ARROW_FIRE: 127
+        ARROW_INFINITE: 127
+        LUCK: 127
+        LURE: 127
+        LOYALTY: 127
+        IMPALING: 127
+        RIPTIDE: 127
+        CHANNELING: 127
+        MENDING: 127
+  where: Extra Tools
+  recipe-0:
+    ==: org.bukkit.inventory.ItemStack
+    v: 1631
+    type: LAVA_BUCKET
+  recipe-1:
+    ==: org.bukkit.inventory.ItemStack
+    v: 1631
+    type: DIAMOND_BLOCK
+  recipe-2:
+    ==: org.bukkit.inventory.ItemStack
+    v: 1631
+    type: LAVA_BUCKET
+  recipe-3:
+    ==: org.bukkit.inventory.ItemStack
+    v: 1631
+    type: LAVA_BUCKET
+  recipe-4:
+    ==: org.bukkit.inventory.ItemStack
+    v: 1631
+    type: DIAMOND_SWORD
+  recipe-5:
+    ==: org.bukkit.inventory.ItemStack
+    v: 1631
+    type: LAVA_BUCKET
+  recipe-6:
+    ==: org.bukkit.inventory.ItemStack
+    v: 1631
+    type: LAVA_BUCKET
+  recipe-7:
+    ==: org.bukkit.inventory.ItemStack
+    v: 1631
+    type: DIAMOND_BLOCK
+  recipe-8:
+    ==: org.bukkit.inventory.ItemStack
+    v: 1631
+    type: LAVA_BUCKET

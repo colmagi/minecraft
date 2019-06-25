@@ -1,0 +1,21 @@
+lastAccountName: ben_shapiro2020
+timestamps:
+  login: 1560962192272
+  logout: 1560965254845
+  lastteleport: 1560965208043
+ipAddress: 173.172.39.101
+lastlocation:
+  world: world
+  x: -248.69999998807907
+  y: 67.0
+  z: 758.6999999880791
+  yaw: -117.617615
+  pitch: -28.80013
+logoutlocation:
+  world: world
+  x: -219.30000001192093
+  y: 67.0
+  z: 776.5556362029027
+  yaw: -46.553017
+  pitch: 43.049774
+money: '0.0'

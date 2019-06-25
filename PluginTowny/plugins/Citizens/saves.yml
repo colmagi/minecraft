@@ -1,0 +1,597 @@
+# Citizens NPC Storage
+
+last-created-npc-id: 43
+npc:
+  '43':
+    metadata:
+      player-skin-textures: eyJ0aW1lc3RhbXAiOjE1NjA4MTk1MTU0OTcsInByb2ZpbGVJZCI6IjQ3YTJhZTlmODliNDQ0NjU5YjQ5NzIwZjA5ZGZhOGQxIiwicHJvZmlsZU5hbWUiOiJZaXJvaCIsInNpZ25hdHVyZVJlcXVpcmVkIjp0cnVlLCJ0ZXh0dXJlcyI6eyJTS0lOIjp7InVybCI6Imh0dHA6Ly90ZXh0dXJlcy5taW5lY3JhZnQubmV0L3RleHR1cmUvYjkxYjJjNTU4MWI1ZjFkZGNjZjgxYTdlMTM1NTIzMDdkYWM3OTFjMzFhZDA2Mzc1MjVlN2NhYjE3MGY4OWI5ZSIsIm1ldGFkYXRhIjp7Im1vZGVsIjoic2xpbSJ9fX19
+      cached-skin-uuid-name: yiroh
+      cached-skin-uuid: 47a2ae9f-89b4-4465-9b49-720f09dfa8d1
+      player-skin-signature: tDUl9cbsnOR1RbVib4ExqtyldgGqydI+Al0UV2XqV261yXk16qhJhG/7WWD3gap3XGQXwt2V7LEYsbzmYboDtdanaiXukqtRP3WHvXnX/Yng6JBTPSBNhV+Hmbi+RuE2lK+S12FUd5Vpk069XxM+VA/6vM/+aBZBzTN5ArHr62G+RaRjuSlcFSio81SlNYV6DuQHYFjwztIHZafnC8x/Mhf5osLWUfG7NUR3stv0uUYvtV62yaBQvxgaSCI7V+UbyNHWM+V9a/TFT5VSSSq1aj9Yg7ZLTSLlBfjnIYSoUXPPYRFfXO4SLSNVkNj+e84OsRC06TlBMUNjEXWid/UWwRy/9+WHTVEj563/1xrc6++yfOal9rNMBXMyN2zMATHmUFU4iBnTFYH+HeougdatgGrhdKwMFuhNaRSor1OS9YATXzL9Dynv5yY0+8kH0TZRQ9RINB94XPQNDn9HS0VUfkBt8wWmVU691PgDtXiEX92SI5r8UJAfswttRgvxbONR86qnZhDq6SCUIpAIGGfyS0IwF51/fAWI1a3sBhVZq/RxL5IABsDqRUK+NE4kFVhNagQd+AVb+wPu444MVrdl5TXERj/yFdqcac5/VkXD7zJ1sTa44edAR1mzAoutSqjTDtvVwbS/dNECw3Hos9M1O9oQT3r6KcaazF/+OR/fOSQ=
+    name: Yiroh
+    uuid: 7c0b9aeb-ebaf-491d-8b03-12b57022fe09
+    traits:
+      gravity:
+        enabled: false
+      spawned: true
+      waypoints:
+        linear:
+          points:
+            '0':
+              location:
+                world: world
+                x: '-220.0'
+                y: '62.0'
+                z: '-41.0'
+                yaw: '0.0'
+                pitch: '0.0'
+        provider: linear
+      location:
+        world: world
+        x: '-219.6329'
+        y: '63.0'
+        z: '-40.2357'
+        yaw: '-99.7640609741211'
+        pitch: '0.0'
+      lookclose:
+        range: '5.0'
+        enabled: true
+        enableRandomLook: false
+        randomLookDelay: 60
+        randomPitchRange:
+        - -10.0
+        - 0.0
+        randomYawRange:
+        - 0.0
+        - 360.0
+        realisticlooking: false
+      type: PLAYER
+      owner:
+        owner: JohnProdman
+        uuid: 4150cd4b-a415-4298-bdc7-c9e330b466cc
+    traitnames: lookclose,owner,equipment,mounttrait,inventory,gravity,type,spawned,location,waypoints
+    navigator:
+      speedmodifier: '1.0'
+      avoidwater: false
+      usedefaultstuckaction: true
+  '42':
+    metadata:
+      player-skin-textures: eyJ0aW1lc3RhbXAiOjE1NjA4MTk0OTIzMzIsInByb2ZpbGVJZCI6IjVkYTBhMGE5YzgxMDQxOWI5MTlmMjM4NGY4ZjI4MTk1IiwicHJvZmlsZU5hbWUiOiI2OWluIiwic2lnbmF0dXJlUmVxdWlyZWQiOnRydWUsInRleHR1cmVzIjp7IlNLSU4iOnsidXJsIjoiaHR0cDovL3RleHR1cmVzLm1pbmVjcmFmdC5uZXQvdGV4dHVyZS8yNzQ4OTMzZmFkNDUyNDBhYWZiYWJhOTAwMGJhNjZiZTcyYTc5MjM1N2I4NzhiNWI4NGY0ZjhlMmZkY2RkOGU0IiwibWV0YWRhdGEiOnsibW9kZWwiOiJzbGltIn19fX0=
+      cached-skin-uuid-name: 69in
+      cached-skin-uuid: 5da0a0a9-c810-419b-919f-2384f8f28195
+      player-skin-signature: ahZ4KDfwVAiRwqmBm27COuSJZXWfUvmB1/ItGmBtqj+su53FlicX2f59IosMy6jansnG1ItnkD708zpYFThmSbhmMmtjLpcLrfkCf34ZjzvvK5861CN6OOzEFbTxCFz2cnWrdwjRRjkTV3SpBmp8ZE7+0OZcr+mx3sYU73eUcF3EpdpeQfyh/BwmgGIrlA05rQk6CWNhE2PJCvqbIutfuJ59TX4caEBxn3rn5wfR5GXBCSqgcUTTPM36cmya1lOE1mXF6wUR2BA0sZi9G/erU16WLXyYDcGp2QYCCigaNWmbbJQKauZLV3xiYTNVFOI9kPPvmKLvYbZw/xZkJEf83jzXBhRVzxjGXgWnvOxvBXoLoQ9btVQLM2HeYYl2n4OXk8eEBW66AoTryEQmM2PcYdrU4JCyFYH++J/OeX2pUvu1xhz1ZMEOXvMMSRpFxia+Z984I3UUO0zZl9sXvmJHl5jhSX4kEqa8x1zT+jB9+D+XhxNVvwrba+Th962NPGAVhO94wM3Sm9TujenBIng8qXwd0zOrFx1gWCw4C94/6JMYgPuMOGjxWUYuo6VhADN7Sli9IXJ4Hxy4xwjwX4djOlIMPJBoswM72BH6UM2u4PWKT5fFSw+of3IGI0q5UYuDioH+xQonEU9OWIeY9EK2As3NkWKtehgNp8a6dSlvmK0=
+      flyable: false
+    name: 69in
+    uuid: bc0f3132-3272-4bf3-a52f-759a9662f0e9
+    traits:
+      gravity:
+        enabled: false
+      spawned: true
+      waypoints:
+        linear:
+          points:
+            '0':
+              location:
+                world: world
+                x: '-214.0'
+                y: '62.0'
+                z: '-45.0'
+                yaw: '0.0'
+                pitch: '0.0'
+        provider: linear
+      location:
+        world: world
+        x: '-213.6014'
+        y: '63.0'
+        z: '-44.0861'
+        yaw: '-175.03228759765625'
+        pitch: '-18.212642669677734'
+      lookclose:
+        range: '5.0'
+        enabled: true
+        enableRandomLook: false
+        randomLookDelay: 60
+        randomPitchRange:
+        - -10.0
+        - 0.0
+        randomYawRange:
+        - 0.0
+        - 360.0
+        realisticlooking: false
+      type: PLAYER
+      owner:
+        owner: JohnProdman
+        uuid: 4150cd4b-a415-4298-bdc7-c9e330b466cc
+    traitnames: lookclose,owner,equipment,mounttrait,inventory,gravity,type,spawned,waypoints,location
+    navigator:
+      speedmodifier: '1.0'
+      avoidwater: false
+      usedefaultstuckaction: true
+  '41':
+    metadata:
+      player-skin-textures: eyJ0aW1lc3RhbXAiOjE1NjA4MTk0NzczNjIsInByb2ZpbGVJZCI6ImM5OGMxNjE1MDc2NDQxZTE4NDhkNzMxNTJiZmFiZTk0IiwicHJvZmlsZU5hbWUiOiJUaGVSZWFsQ29sbWFnaSIsInNpZ25hdHVyZVJlcXVpcmVkIjp0cnVlLCJ0ZXh0dXJlcyI6eyJTS0lOIjp7InVybCI6Imh0dHA6Ly90ZXh0dXJlcy5taW5lY3JhZnQubmV0L3RleHR1cmUvZDE1NGRjOWJhNzY4YjVkNWEwYTNlMTE5MzllZDJlMmQ5MzQ5Zjg2MjMzMjQxMzQ2ZmMwYzVlNmRlMjU4ODgwOCJ9fX0=
+      cached-skin-uuid-name: therealcolmagi
+      cached-skin-uuid: c98c1615-0764-41e1-848d-73152bfabe94
+      player-skin-signature: xHCsfNT5Ktah+vbI8ItKW4sfycsmNOuk0sMzp0MwUwzLjFwk58Emf8sdlwlH0NqQOmqrN/YM8W2uvVRDvtPbPJWRPaTPD4dHLAXZVdR/pmw9crULVhu1ZUOsNdgkFNzuYnVusti+xy1meEkKcb+mq16LehtvwYBT9Byrc5uuO5gLUaY5c/2EVmZV+xYBvDKhcntJDlnWnHQ4H8wUdyWcgL489ZhGK6sTO2Hdu9djCO2UyU+NtoVpU5tEyyD4h6PR8Q3ps4z0hqmPdmZzoxe/kgWUE95AAkbZdX7VGM15sDSbe/n5hMTO5aCQ1V/u5VA9pngd/ORC8V+GmwyaL4d3xeASAL6o57Rshi1ClDYK/z09KMdnreP6L6aeNBjiFJqGABzx/wUsEEbDbKfElExu5Pg4FOqDu1++1HCn0BKdm0ww+V2zfJo3cW2P7aEI9q2CDw+cweaXFVgHR7NbiqhAJDyY4kQnQISLG9qUhxBNOIymHhr6wTEzxmKU7KMZQ9hZuk8tJpYT8Qz+0i6TyiBTjUvW+bE6epHTIgdcFcCXJur0V3KW5PDn83VDcnRO0TuHwHuAY1ncUw7cNFh53l87+FRAH5fm6LVTyGKVZRAztZjQLRnigxs7XKXZSCElVyt/0kMdeZevoWYMij09rg+znFO16O0hQtbyt2S2BK64jYc=
+    name: TheRealColmagi
+    uuid: 1d3bdd5d-8266-4658-ac0e-145b82c5c16d
+    traits:
+      gravity:
+        enabled: false
+      spawned: true
+      waypoints:
+        linear:
+          points:
+            '0':
+              location:
+                world: world
+                x: '-214.0'
+                y: '62.0'
+                z: '-43.0'
+                yaw: '0.0'
+                pitch: '0.0'
+        provider: linear
+      location:
+        world: world
+        x: '-213.4747'
+        y: '63.0'
+        z: '-42.2149'
+        yaw: '-23.481842041015625'
+        pitch: '79.40083312988281'
+      lookclose:
+        range: '5.0'
+        enabled: true
+        enableRandomLook: false
+        randomLookDelay: 60
+        randomPitchRange:
+        - -10.0
+        - 0.0
+        randomYawRange:
+        - 0.0
+        - 360.0
+        realisticlooking: false
+      type: PLAYER
+      owner:
+        owner: JohnProdman
+        uuid: 4150cd4b-a415-4298-bdc7-c9e330b466cc
+    traitnames: lookclose,owner,equipment,mounttrait,inventory,gravity,type,spawned,location,waypoints
+    navigator:
+      speedmodifier: '1.0'
+      avoidwater: false
+      usedefaultstuckaction: true
+  '40':
+    metadata:
+      player-skin-textures: eyJ0aW1lc3RhbXAiOjE1NjA4MTg0ODQ1OTQsInByb2ZpbGVJZCI6IjBmOWQ0MTcyYzIzNTRiZDI5ODk3NDkwYzRhOTNkZGZlIiwicHJvZmlsZU5hbWUiOiJpTWluZTAzIiwic2lnbmF0dXJlUmVxdWlyZWQiOnRydWUsInRleHR1cmVzIjp7IlNLSU4iOnsidXJsIjoiaHR0cDovL3RleHR1cmVzLm1pbmVjcmFmdC5uZXQvdGV4dHVyZS85NGQ0ZGFkZWFmNDMzMDFlNDM1YTM0NzU0YzA3OTJmNzNiMDg4NjkwMmFiNmFmZjA4MTI2YzY2ZGI4NzVhYjg2In19fQ==
+      cached-skin-uuid-name: imine03
+      cached-skin-uuid: 0f9d4172-c235-4bd2-9897-490c4a93ddfe
+      player-skin-signature: e0hUofRd9Uh+b8/1na9s9YdREl5mKpGFM6Gz14R1O4ENWVWhMPTAVCTZWsjX8aFVb8xz2dOJGvwkHkv+9xS7eP8qvCR23sC+o/JS/RyYa0uXELr8BJ7bgBvUQaGL2uI4hyFtV1/MS/IEtUj/soikbFHdbITh5HFKwanEFkhTBso+ORNY36NVzq2ruo4/uNvsO1VHwMAkgFNiUNAhzG2QTTt5SrlEil9yak+zvs9SBkm/JXDXihrAal9oKbK2FiZ13IU2DT1kLGkjdkn76vSgtSQf0KdrFBuHJbm7DN0mYD1c9fbUz6ztwVLoc3Ur6UzLuR57KJR6a8aC/TY88DXcvoqljCiPYE4T/b0UfRPtJD4YnUX1mIUj5zI/G7bIsNwTY5lxupURE0hlQIl2PrxMdjrnpQgX8gYnKyUvtJpnSihLO737+8jFzQykOrpRAtUziouZXl14pEIBfc2TTsdhUtgKk3pMTsubHIFv5uqz6GwTtN19IwGkmBL8C1TauPPDIr58m8mIh2BPfS3Z4vvRc4KTD3kVum/Dld2zGHAw/qX5NlvaYsI15klMnyAOXHSpgYX6/vAFNCLbUnkqWLs4v+t2LfsT3meeGHKMvHVEn5HRyxX6C1UqsghxQN1CMQ7FG4BBDvXz17M3GvqRRKso2W/wODODF+SjCmrFU3rbtxc=
+    name: iMine03
+    uuid: 2c92658d-a66a-4d77-b739-e173c6acbbb1
+    traits:
+      gravity:
+        enabled: false
+      spawned: true
+      waypoints:
+        linear:
+          points:
+            '0':
+              location:
+                world: world
+                x: '-214.0'
+                y: '62.0'
+                z: '-41.0'
+                yaw: '0.0'
+                pitch: '0.0'
+        provider: linear
+      location:
+        world: world
+        x: '-213.4653'
+        y: '60.2'
+        z: '-40.4911'
+        yaw: '-169.947998046875'
+        pitch: '0.0'
+      lookclose:
+        range: '5.0'
+        enabled: true
+        enableRandomLook: false
+        randomLookDelay: 60
+        randomPitchRange:
+        - -10.0
+        - 0.0
+        randomYawRange:
+        - 0.0
+        - 360.0
+        realisticlooking: false
+      type: PLAYER
+      owner:
+        owner: JohnProdman
+        uuid: 4150cd4b-a415-4298-bdc7-c9e330b466cc
+    traitnames: lookclose,owner,equipment,mounttrait,inventory,gravity,type,spawned,waypoints,location
+    navigator:
+      speedmodifier: '1.0'
+      avoidwater: false
+      usedefaultstuckaction: true
+  '39':
+    metadata:
+      player-skin-textures: eyJ0aW1lc3RhbXAiOjE1NjA4MTg0NzM2NjMsInByb2ZpbGVJZCI6IjI4YTI4YzQyOTExOTQzZjQ4MzUzZTk4M2MxM2Y3Y2E4IiwicHJvZmlsZU5hbWUiOiJlR2lybENoYXlhIiwic2lnbmF0dXJlUmVxdWlyZWQiOnRydWUsInRleHR1cmVzIjp7IlNLSU4iOnsidXJsIjoiaHR0cDovL3RleHR1cmVzLm1pbmVjcmFmdC5uZXQvdGV4dHVyZS8zNzNhMjgwYjI3M2RiYTdiYjdmMWQwNDhiZjIxZTQzZGNjM2I0ZDU0NTM4YTMzZTc5ZTA5MTlkZDliYTZiMDhlIiwibWV0YWRhdGEiOnsibW9kZWwiOiJzbGltIn19fX0=
+      cached-skin-uuid-name: egirlchaya
+      cached-skin-uuid: 28a28c42-9119-43f4-8353-e983c13f7ca8
+      player-skin-signature: I+3JPCb7ptwV2cZeTITYjj2J8qnjzxrMIdVTWSsGfZIBr5M/Ao6/In2AkZ63cHWLQ+xcIOa5zxPz3ibb3UZEMPEGyWGh9k/XwyG7jxNM2cH4/Vx3LGQgnZ7pB/b5Wq8rtTo833MCd8kZlTyUjcaxhLe45DU/XiOACu9wCtkrveObB5IilIWxHL+pTx7t2XoraaizCRQY7qSqkDTHCFDCaJp+wz0RMwK4EEtKP8+tIWIJ0cjaRMlcBqZ5YJHE+52uAsZB2WDqg90LK/HasCD2vw1f1YMYlP3WQ2spuIqzNWTCMljF08QI1v80DI013TaWImCTdvgfI6+A4QNm/yfBgtqQzkZM9thTBJ2z2KMNjPj9kqAhyE3XCiKBll0fgGLSCYmd1n//Z1TGrLBCPDLWvMl7ajg8JYblpmJOUsgI+vdsu88woiOvseP9KF3T/P/QQ9OC9le+tkM6/cNTclft5MDMTTJQZjjUKxmEzfPTmtwchzUHvohsfqu6MFNaQu5qVv74MbwsIdMESepoJUhG6pii1yNgjYFXCCIh0m/2ZzXgYAgSJutAVX7CwyDp+NBus3zGKrqGY+hQPLqUxDVUyhug44K3SXzbGt8rUqR3l3bDY8XfXl61q35hy2JT/TbbZEfMVgCwcny9evKZMr1CDwALM+Sjd3BRrPFhWgiP2dc=
+    name: eGirlChaya
+    uuid: b9a9e016-6a24-4910-bb86-00081788484f
+    traits:
+      gravity:
+        enabled: false
+      spawned: true
+      waypoints:
+        linear:
+          points:
+            '0':
+              location:
+                world: world
+                x: '-215.0'
+                y: '62.0'
+                z: '-40.0'
+                yaw: '0.0'
+                pitch: '0.0'
+        provider: linear
+      location:
+        world: world
+        x: '-214.4902'
+        y: '60.195'
+        z: '-39.2194'
+        yaw: '-153.4508819580078'
+        pitch: '0.0'
+      lookclose:
+        range: '5.0'
+        enabled: true
+        enableRandomLook: false
+        randomLookDelay: 60
+        randomPitchRange:
+        - -10.0
+        - 0.0
+        randomYawRange:
+        - 0.0
+        - 360.0
+        realisticlooking: false
+      type: PLAYER
+      owner:
+        owner: JohnProdman
+        uuid: 4150cd4b-a415-4298-bdc7-c9e330b466cc
+    traitnames: lookclose,owner,equipment,mounttrait,inventory,gravity,type,spawned,location,waypoints
+    navigator:
+      speedmodifier: '1.0'
+      avoidwater: false
+      usedefaultstuckaction: true
+  '38':
+    metadata:
+      player-skin-textures: eyJ0aW1lc3RhbXAiOjE1NjA4MTg0NjA2MTYsInByb2ZpbGVJZCI6ImE2MDI0OTkxNDc2YjQyYmFhN2QxOWJjZDU0YjBhM2E1IiwicHJvZmlsZU5hbWUiOiJEQ19GTEFTSCIsInNpZ25hdHVyZVJlcXVpcmVkIjp0cnVlLCJ0ZXh0dXJlcyI6eyJTS0lOIjp7InVybCI6Imh0dHA6Ly90ZXh0dXJlcy5taW5lY3JhZnQubmV0L3RleHR1cmUvZTU5MWFhMDFhYWEyM2FhOTUzZTYwMDE3YzM2OGQxOTMwMWE3Yjk5MTBhYjA1MTNkOWI2OWYxMDIyOWIzZjk5MSJ9fX0=
+      cached-skin-uuid-name: dc_flash
+      cached-skin-uuid: a6024991-476b-42ba-a7d1-9bcd54b0a3a5
+      player-skin-signature: WR/DmN50/pCHgbnuTLZD0qsYxThRMctkYgeHqB3S2zLNovv3KASyf5M+lRu5Nj3rsFKS3wp2w7ltI+2xnSeW2eclgazAu1lYW/a8pxVQWdJ8igLuzfYH3/m35oZXQcKvsEAlGaaaR81hTO6p/Zr3mYOh6Lii4CFo5EFIFperaW3nFS6jiUeIMVsXk8TBbbsgXJ/RK9pO1FeTONoXO4g0Veli77SNv9iSxOS3jwNF5b0SJi2RyX3X5JMzgasrRnORWD4oBjPTGL08d1ZK2ToPxDLas7XYbaWhHrlG3ZOUhjH3nn2X9TkPMY/OodzkxamxRCyth8vL782c0ZyQhu1NgVZZxcBwk1B1Dzb+WuBCx6m8wYrPsGsbCqVkyfjbu3OpdPDK2mf7ptl6yzCuY44Z5sodYJ1SsVAUwnDCdPTNk3Jfq9UxLNORVM6E4Zylt9gewjv5ItuE+/PrBWnirXXMA092pw3ViiyUhbxjpbD2vVtKNR8N4zZH4GNeQfYFYOEfr5Q/kqO7cLQ7Ypci+kJglvwi4Bl3An3tGe0oZA/1RZQwabelu4AwxdQ5UfK/dGexkHFqfmU2pa0EcPOMAmeq5UPq/QUqrUwTSUOnwZrhIGNhTkFJBWslHGB01QXUoX0eVlKvr7cJwk1o5Nx+3ATj6D6jksM/1PudMks+ZEZQVOU=
+    name: DC_FLASH
+    uuid: d666714e-b861-4ad3-9c32-efcbeb979295
+    traits:
+      gravity:
+        enabled: false
+      spawned: true
+      waypoints:
+        linear:
+          points:
+            '0':
+              location:
+                world: world
+                x: '-217.0'
+                y: '62.0'
+                z: '-40.0'
+                yaw: '0.0'
+                pitch: '0.0'
+        provider: linear
+      location:
+        world: world
+        x: '-216.4448'
+        y: '63.0'
+        z: '-39.5519'
+        yaw: '-123.92262268066406'
+        pitch: '37.9324951171875'
+      lookclose:
+        range: '5.0'
+        enabled: true
+        enableRandomLook: false
+        randomLookDelay: 60
+        randomPitchRange:
+        - -10.0
+        - 0.0
+        randomYawRange:
+        - 0.0
+        - 360.0
+        realisticlooking: false
+      type: PLAYER
+      owner:
+        owner: JohnProdman
+        uuid: 4150cd4b-a415-4298-bdc7-c9e330b466cc
+    traitnames: owner,lookclose,equipment,mounttrait,inventory,gravity,type,spawned,waypoints,location
+    navigator:
+      speedmodifier: '1.0'
+      avoidwater: false
+      usedefaultstuckaction: true
+  '37':
+    metadata:
+      player-skin-textures: eyJ0aW1lc3RhbXAiOjE1NjA4MTg0Mzc2NTIsInByb2ZpbGVJZCI6IjJhNDZlNDU3YzljMzQwNzQ5NWJlY2ViMzM2ODg0OTcyIiwicHJvZmlsZU5hbWUiOiJKcHNoIiwic2lnbmF0dXJlUmVxdWlyZWQiOnRydWUsInRleHR1cmVzIjp7IlNLSU4iOnsidXJsIjoiaHR0cDovL3RleHR1cmVzLm1pbmVjcmFmdC5uZXQvdGV4dHVyZS8yYTcxYmIyODZiZjRlZWE5NzkwYWQxY2Y4Y2FkZWFjYzkzMWQ5NmIxY2EyNzI2YzIzNmY3OTQ5Zjg2Yzk4NDI1In19fQ==
+      cached-skin-uuid-name: jpsh
+      cached-skin-uuid: 2a46e457-c9c3-4074-95be-ceb336884972
+      player-skin-signature: wcNEHfX+/bRdsJRhDWXp3UfnELfdqUMa+l91zgdraM2weZwYjyZyki03buaKh20OCqeOMvEBokEYjRHp7U6My94Y6iKpDCi+H2/4WIRfz4ZKwmeMTkKyzT/jsw57i1aFWkziQmvmALTiW41Z9A9AuyvYDNEGCVfR02MTKPvMmBhaUTAyYSOqzWqNsGAjLgRBu8FdCf0n2fCUc2/QXJvfItuWRfNIsEFFPdftmiZNYKfQn0nN1xqBzwAh7vAHkNPI4/7tawjf9lJDCRaNtfDq+ZUbP8KsWBd3QHG5Ej5V/Ve/9npN5eAMY28f4pGVWeCSleP0MJbn1B0cEfucRZXTq0b2e9BSzkmovQ7pk8DWltQgi9UFAClVEurAJohRKX0gkbdU2xqLwceGc5q4q+3dKBaogPq5YZ9hhaHmGA57uzHYyxMHV6FIr4uvQ+s+JAaDJpvwrEGpDORnWtAVVCDs+p5M+4TSuk7ayrzUwtkQW2bOAHfr3uz9yjX7Xd7NZvGiUdqR4NSdK1hNZS+QVARjGuy4pJXkrgMvuOn7l113G3vbQnalzDXeP7MSprkSND+RaXoFIxuPIbaCIWfB6GgNwJtfMk4r8NrznqfG3E9FeAA8ODYRwaSZuQtfadk0T2kmsAetI5Fu+XaHWLdCeplwqMcdOputCv4G/K1NRzGCntA=
+    name: Jpsh
+    uuid: 3d679357-1090-407d-a941-8f14cfef11e7
+    traits:
+      gravity:
+        enabled: false
+      spawned: true
+      waypoints:
+        linear:
+          points:
+            '0':
+              location:
+                world: world
+                x: '-219.0'
+                y: '62.0'
+                z: '-40.0'
+                yaw: '0.0'
+                pitch: '0.0'
+        provider: linear
+      location:
+        world: world
+        x: '-218.568'
+        y: '63.0'
+        z: '-39.1619'
+        yaw: '-115.51729583740234'
+        pitch: '26.98428726196289'
+      lookclose:
+        range: '5.0'
+        enabled: true
+        enableRandomLook: false
+        randomLookDelay: 60
+        randomPitchRange:
+        - -10.0
+        - 0.0
+        randomYawRange:
+        - 0.0
+        - 360.0
+        realisticlooking: false
+      type: PLAYER
+      owner:
+        owner: JohnProdman
+        uuid: 4150cd4b-a415-4298-bdc7-c9e330b466cc
+    traitnames: owner,lookclose,equipment,mounttrait,inventory,gravity,type,spawned,location,waypoints
+    navigator:
+      speedmodifier: '1.0'
+      avoidwater: false
+      usedefaultstuckaction: true
+  '36':
+    metadata:
+      player-skin-textures: eyJ0aW1lc3RhbXAiOjE1NjA4MTg0MjQ1NjMsInByb2ZpbGVJZCI6ImU5YWZhNzAzMmFhNzRmNjc5ZTNmNTc4Nzk5NGY0NGVhIiwicHJvZmlsZU5hbWUiOiJLSDRaMVhTVDROIiwic2lnbmF0dXJlUmVxdWlyZWQiOnRydWUsInRleHR1cmVzIjp7IlNLSU4iOnsidXJsIjoiaHR0cDovL3RleHR1cmVzLm1pbmVjcmFmdC5uZXQvdGV4dHVyZS9kNjBjMzBkNzNjZmU5OTA5YTNkZjdlYjZmNDRhOTVkNTMwM2Y2MTIwMWUzMTdmMzM5ZmFiMzdmZDk2NTZjYWQ5In19fQ==
+      cached-skin-uuid-name: kh4z1xst4n
+      cached-skin-uuid: e9afa703-2aa7-4f67-9e3f-5787994f44ea
+      player-skin-signature: UfPbLX/0HBllz6cnmWjqIagqvMCZvhjjmae4b+5uWmhabzDyJ74ac3I4SaqP9dHdi08hF7NT8cYajG2efPGi1MavA0G45Hsabgc5Qhh3q/YHqwlaKackXP5/UZeLDkW5vbsU3SOIIPuEWTzJHBAsKiZ/+LNLLHLHvjvl25Cup82B9OhIFq7mIOe4/xQPNivcJTsf+UG5jhrk0F1/aGlJ+w0bBH2gZxc+S1Ut7Rt4Vg0PTc+ks6GLbq9/GKoFluaZVkY0/VIhlJSNxkOl50evQuBKgLGEcmqo/qhQBhQD0gQpverpXyF1Z95zr1bg5zLDV9zZwRhI+EuLJXwTf6VcmZPirosxHBF+J06i5NjX0BRcGFB/s3K0gHuQrp8XiGkh4RKZ0LCH6QCnkJmqQln22TliaPrHAomMx3O2kxuYId/yOkLdyRDmPL+yb/nMpYO0KpUEJS6AVLYlHPWYaRBOpZ1xokSy8aHQ/B4cc/nQ9gIxk1nRMzEP//PCHU2LHqCRnxML+RVi6oeWBdHHitot3ueBtcyHy5EUaYUkczm8dhtitzf7EzrXy9qIYlWN7Mv3fP3eo/utQQVn0ad5noXi62brOEjG8/nAOVNsg1hpSFIPdWcwLXVK6FBX6HyTlkwnZQhDvkSwHZnFnDMoTXN7vsMlq6SEgWRlIm1TbP1nKCY=
+    name: KH4Z1XST4N
+    uuid: 3d9a224d-f301-4c6b-8f88-6065c743392f
+    traits:
+      gravity:
+        enabled: false
+      spawned: true
+      waypoints:
+        linear:
+          points:
+            '0':
+              location:
+                world: world
+                x: '-219.0'
+                y: '62.0'
+                z: '-46.0'
+                yaw: '0.0'
+                pitch: '0.0'
+        provider: linear
+      location:
+        world: world
+        x: '-218.7707'
+        y: '63.0'
+        z: '-45.1355'
+        yaw: '-58.101661682128906'
+        pitch: '24.770057678222656'
+      lookclose:
+        range: '5.0'
+        enabled: true
+        enableRandomLook: false
+        randomLookDelay: 60
+        randomPitchRange:
+        - -10.0
+        - 0.0
+        randomYawRange:
+        - 0.0
+        - 360.0
+        realisticlooking: false
+      type: PLAYER
+      owner:
+        owner: JohnProdman
+        uuid: 4150cd4b-a415-4298-bdc7-c9e330b466cc
+    traitnames: lookclose,owner,equipment,mounttrait,inventory,gravity,type,spawned,waypoints,location
+    navigator:
+      speedmodifier: '1.0'
+      avoidwater: false
+      usedefaultstuckaction: true
+  '35':
+    metadata:
+      player-skin-textures: eyJ0aW1lc3RhbXAiOjE1NjA4MTgzNzg1OTAsInByb2ZpbGVJZCI6IjQxNTBjZDRiYTQxNTQyOThiZGM3YzllMzMwYjQ2NmNjIiwicHJvZmlsZU5hbWUiOiJKb2huUHJvZG1hbiIsInNpZ25hdHVyZVJlcXVpcmVkIjp0cnVlLCJ0ZXh0dXJlcyI6eyJTS0lOIjp7InVybCI6Imh0dHA6Ly90ZXh0dXJlcy5taW5lY3JhZnQubmV0L3RleHR1cmUvNzYyNThkNmZhODYxMGM3NzA5NjdjNDBkNDI2MGJiMGYzNWRiMTZhZmEzNjFlNWQxYTIwNWM5Y2M4OWIxMmI3ZiJ9fX0=
+      cached-skin-uuid-name: johnprodman
+      cached-skin-uuid: 4150cd4b-a415-4298-bdc7-c9e330b466cc
+      player-skin-signature: HYwJ2oeRNpaejRuJhvx/Nrf315rIEBBwdtMHMUpU9YOsn01BdbSV/LQJeXRuTl1ybKUNuptMSa5g+0io2s8slAgsE+OjMU9dxXyR3j722MXi+55KPvodNZzn4W+ViLj+1IvraotaJ+J2ZZamO7ZsrWjn6p3bEUzUs0yj1lmLcoraZa4bbqbY/USORGsGdi+RP4qyT9LZCxqMQjtKVTMMdeqm/QLfXm4Tasz4IzbUKPWDp4K3zab4xT75lIcO24N1XDZGKlW7br/TSnG0qZWBeoUIo5Xvocgf6Ku9hg3Zv9VX2embcj1bllFOMNV5NkjIrQzpKNZdUiKBSvcWD/PJNJsFSztLg9RWqd27TKNZfAs+2ZLElyDvPJ5DX7WZeXI7J70KMlArBR3IcAlh+gmcDl0vG5J0V9XRDPN7fP7cSOe+ilb43gg34f38pioOuF4hVSZEtoYIRBlFcUEQM8sGVa+btCcQnOiUHjPYE3SbiCN0+EuQ2FWMmSjHFouzqHuD5yTB7lSWKvkW3EXhDKJZImkvxo6uLFifUMfwpAFTmSlXqR6iVmWgqkSy2ZyqPMrIfxnklsnTAZ1KByVbJv9SvjGgj1Jx+Q21FCGtON96rG+xMKQSWnsv3qdyfIwblD5pm8JiQQ8sD9LZvF/YCf3C24cblwH35gy2MvVlzdwU+zA=
+    name: JohnProdman
+    uuid: c282f679-412e-405e-9af3-5874b8cd8976
+    traits:
+      gravity:
+        enabled: false
+      spawned: true
+      waypoints:
+        linear:
+          points:
+            '0':
+              location:
+                world: world
+                x: '-217.0'
+                y: '62.0'
+                z: '-46.0'
+                yaw: '0.0'
+                pitch: '0.0'
+        provider: linear
+      location:
+        world: world
+        x: '-217.5319'
+        y: '63.0'
+        z: '-46.655'
+        yaw: '-122.40678405761719'
+        pitch: '-18.774316787719727'
+      lookclose:
+        range: '5.0'
+        enabled: true
+        enableRandomLook: false
+        randomLookDelay: 60
+        randomPitchRange:
+        - -10.0
+        - 0.0
+        randomYawRange:
+        - 0.0
+        - 360.0
+        realisticlooking: false
+      type: PLAYER
+      owner:
+        owner: JohnProdman
+        uuid: 4150cd4b-a415-4298-bdc7-c9e330b466cc
+    traitnames: lookclose,owner,equipment,mounttrait,inventory,gravity,type,spawned,waypoints,location
+    navigator:
+      speedmodifier: '1.0'
+      avoidwater: false
+      usedefaultstuckaction: true
+  '34':
+    metadata:
+      player-skin-textures: eyJ0aW1lc3RhbXAiOjE1NjA4MTgzNzA3MDksInByb2ZpbGVJZCI6IjRkMzU5NDY0NGUwODQ3OWU5ZDgxZDZmZDNiMTgwNDZhIiwicHJvZmlsZU5hbWUiOiJjaHJvc3RvZSIsInNpZ25hdHVyZVJlcXVpcmVkIjp0cnVlLCJ0ZXh0dXJlcyI6eyJTS0lOIjp7InVybCI6Imh0dHA6Ly90ZXh0dXJlcy5taW5lY3JhZnQubmV0L3RleHR1cmUvNWNmNGJlMzQwMTBhZTNmMWFlMjJmZWMyOWIyNDRkYjM2NWIwZGViY2Q2NzhjMDA2MDkwYmE1MGExOTk4MzNkYSIsIm1ldGFkYXRhIjp7Im1vZGVsIjoic2xpbSJ9fX19
+      cached-skin-uuid-name: chrostoe
+      cached-skin-uuid: 4d359464-4e08-479e-9d81-d6fd3b18046a
+      player-skin-signature: fx49wvFLQQYSwQsqIPDagmz9MzdOY+lPyvRW+c4dYQaZx7GfSfjJAui6XIeHfOvSDph1gEPvZZVjh0idjWr8cNAQbuWJlobiGVPVHE06hv1f8V9HbXE3YStRxTOrV5dVgui9TinvljF9og5dECk+MNI5c6zDo2qYtAdSR7V/YlsH2TjdxJIILhAPGGetctGdiDOpuHzaUaKHsWe5RuYbAR/MmOn+p8o8OMx2LfwAIffRiBImnh4GtV8Q95c4PoEJTApDLQS7wyXlx0y+/xRdWF21o0XpegHO1iUrnbcxHZ9/BfNTLW/2rdIWtCM91a9aeE7NvNEWrYXH/roGia66I9rBJS/4va17nVwSYWqyaESg/AKvg2E9KFf8hsxIpciI/KbLfJPgOWgqp8ITXvsE8sa7lDvnSBuBxXo4bgl8Y5rfp90uD3CRoBQMfsLdlLG61cDOdhLSzSulxNvK9F3pBvD7Pyj4axdBA8Rx2afGvcRU7s5lvUNt2+Vir5xKJqsf/2gECSPyfOAy+LRJqtTM6k4CurYGO3f3inB2mz+AyvLSN6RdzjlS5uLJxguKRoGZjzqi4ja/AM7DEWPrBNVKWYdGqBfapCjQbX9BJEQJG7fEEt1y6UVH++UZlBJbKEmPSPN+FJz8+x+SlHkBXziP/Zyxbe89Dm/C/dN1CKiskzc=
+    name: chrostoe
+    uuid: 0886f06f-a570-4733-a9bc-e29d51ab3eaf
+    traits:
+      gravity:
+        enabled: false
+      spawned: true
+      waypoints:
+        linear:
+          points:
+            '0':
+              location:
+                world: world
+                x: '-215.0'
+                y: '62.0'
+                z: '-46.0'
+                yaw: '0.0'
+                pitch: '0.0'
+        provider: linear
+      location:
+        world: world
+        x: '-214.4379'
+        y: '63.0'
+        z: '-45.4615'
+        yaw: '-161.89590454101562'
+        pitch: '-22.89365005493164'
+      lookclose:
+        range: '5.0'
+        enabled: true
+        enableRandomLook: false
+        randomLookDelay: 60
+        randomPitchRange:
+        - -10.0
+        - 0.0
+        randomYawRange:
+        - 0.0
+        - 360.0
+        realisticlooking: false
+      type: PLAYER
+      owner:
+        owner: JohnProdman
+        uuid: 4150cd4b-a415-4298-bdc7-c9e330b466cc
+    traitnames: lookclose,owner,equipment,mounttrait,inventory,gravity,type,spawned,location,waypoints
+    navigator:
+      speedmodifier: '1.0'
+      avoidwater: false
+      usedefaultstuckaction: true
+  '33':
+    metadata:
+      player-skin-textures: eyJ0aW1lc3RhbXAiOjE1NjA4MTgyNjUxNzQsInByb2ZpbGVJZCI6IjFkZjk3YTUwNmQzNTQzZGE5YTdhOWI5OWNhNmRkMDcwIiwicHJvZmlsZU5hbWUiOiJTbGF2ZSIsInNpZ25hdHVyZVJlcXVpcmVkIjp0cnVlLCJ0ZXh0dXJlcyI6eyJTS0lOIjp7InVybCI6Imh0dHA6Ly90ZXh0dXJlcy5taW5lY3JhZnQubmV0L3RleHR1cmUvZjVkY2FjZWZmMzQ1YzM1Yzk3ZjlmOGJhN2VkODlhOWMyMTRiYWM2MmUxNGU4YjMwNDQyMzhlZmZkNGUyOGY2MSJ9fX0=
+      cached-skin-uuid-name: slave
+      cached-skin-uuid: 1df97a50-6d35-43da-9a7a-9b99ca6dd070
+      player-skin-signature: tTK2G1E2DFtYbpJmc8JUKmmHSDlLsiKkmDgGVxX2vI6bDmWEaGO+IGx2ObPfewQIMo7ET/HCbV8S/viHVRTOtVAtzACgaAmEVCdScOBhXZJjc6WYEKRyGJ27EDqfOir0KwYRP0ou72QOdanLpuxBKli1vab71fT2SV3lRjbwU5S46UBlkOi1oMGFNJPaBRVIcUbkKAj1Kmi+81MSr5+8+5WU1odsZ4NQebqD+Cayd5g7P2paBIkFeP4ZnOj4JyybbWABdsq6RVotyxWC9XP8iSiEEgqMNQqy6PpJXDZbxinxYMo0/3DdwKtcrHe/mh+4eEwKAe8zn5k9/Yyu88CUxN7CRJgR+jrYjpglGz1ejh7iQgalgrIhYySJk6xwh8t5M+rjBwUIG6SeaZCpGnzZivOxwh8H+4L/rWeWN6fW3crBBWpLfVMueWN2Ljy+c2IyQZH/8lvHFqhAubXTIuMIvfhCwju3vLf79xC6lb0gruLgGhQ0Vc/bQ7rZEO+/gUHxB1TiHBLgUT2EdvQwFRNohVwlV/sEVYkzM+/1cS2iNFB5kz4GtBn0FHJy9HRibIEb+pHSNQkA9E37HYjmqDwEmnWL4Bmo6J4uaiPo91uvMkyiEtm83DV6rTiiW2Wom4FQvlTg6x4j1+3cRZeENmPbcljRJMXJVMwR6gnIWblONYs=
+    name: Slave
+    uuid: ef71aab5-4288-421a-bfeb-d7cc36e6b3db
+    traits:
+      gravity:
+        enabled: false
+      spawned: true
+      waypoints:
+        linear:
+          points:
+            '0':
+              location:
+                world: world
+                x: '-227.0'
+                y: '62.0'
+                z: '-33.0'
+                yaw: '0.0'
+                pitch: '0.0'
+            '1':
+              location:
+                world: world
+                x: '-207.0'
+                y: '62.0'
+                z: '-33.0'
+                yaw: '0.0'
+                pitch: '0.0'
+            '2':
+              location:
+                world: world
+                x: '-207.0'
+                y: '62.0'
+                z: '-53.0'
+                yaw: '0.0'
+                pitch: '0.0'
+            '3':
+              location:
+                world: world
+                x: '-227.0'
+                y: '62.0'
+                z: '-53.0'
+                yaw: '0.0'
+                pitch: '0.0'
+            '4':
+              location:
+                world: world
+                x: '-227.0'
+                y: '62.0'
+                z: '-53.0'
+                yaw: '0.0'
+                pitch: '0.0'
+        provider: linear
+      location:
+        world: world
+        x: '-223.7144'
+        y: '63.0'
+        z: '-52.5229'
+        yaw: '89.52894592285156'
+        pitch: '0.0'
+      type: PLAYER
+      owner:
+        owner: JohnProdman
+        uuid: 4150cd4b-a415-4298-bdc7-c9e330b466cc
+    traitnames: owner,equipment,mounttrait,inventory,gravity,type,spawned,waypoints,location
+    navigator:
+      speedmodifier: '2.0'
+      avoidwater: false
+      usedefaultstuckaction: true

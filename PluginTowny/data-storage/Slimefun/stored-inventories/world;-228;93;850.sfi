@@ -1,0 +1,25 @@
+preset: BARREL_GIGANTIC
+'16':
+  ==: org.bukkit.inventory.ItemStack
+  v: 1631
+  type: COBBLESTONE
+  amount: 64
+'4':
+  ==: org.bukkit.inventory.ItemStack
+  v: 1631
+  type: CAULDRON
+  meta:
+    ==: ItemMeta
+    meta-type: UNSPECIFIC
+    display-name: §71002/1048576
+    lore:
+    - §8[§2§7::::::::::::::::::::§8] §7- 0.0%
+'22':
+  ==: org.bukkit.inventory.ItemStack
+  v: 1631
+  type: COBBLESTONE
+  meta:
+    ==: ItemMeta
+    meta-type: UNSPECIFIC
+    lore:
+    - §b§a§r§r§e§l

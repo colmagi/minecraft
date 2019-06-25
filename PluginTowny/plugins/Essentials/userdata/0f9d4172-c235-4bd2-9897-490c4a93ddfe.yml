@@ -1,0 +1,42 @@
+lastAccountName: iMine03
+timestamps:
+  login: 1561051753837
+  lastteleport: 1560963958632
+  kits:
+    firework: 1560732738732
+    jesus: 1560832377052
+    color: 1560732733027
+    notch: 1560732696515
+    dtools: 1560832392725
+    tools: 1560734824607
+  logout: 1561051993076
+  jail: 0
+ipAddress: 172.56.7.117
+lastlocation:
+  world: world
+  x: -205.0885295906112
+  y: 106.0
+  z: 892.1658714849237
+  yaw: -196.2378
+  pitch: 34.049644
+nickname: §ljesus§l
+godmode: false
+money: '9999999999996.0'
+acceptingPay: true
+logoutlocation:
+  world: world
+  x: -229.76170043201637
+  y: 70.5625
+  z: -29.171596018736764
+  yaw: 151.9143
+  pitch: 53.486656
+jailed: false
+afk: false
+homes:
+  lightning:
+    world: world
+    x: -88.66287862769647
+    y: 79.0
+    z: -705.8435364739086
+    yaw: 186.12189
+    pitch: 10.963299

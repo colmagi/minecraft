@@ -1,0 +1,60 @@
+# 
+# Name: ExoticGarden
+# Author: mrCookieSlime
+# 
+# Do not modify the Config while the Server is running
+# otherwise bad things might happen!
+# 
+# This Plugin also requires CS-CoreLib to run!
+# If you don't have it installed already, its going to be
+# automatically installed for you
+# 
+# This Plugin utilises an Auto-Updater. If you want to turn that off,
+# simply set options -> auto-update to false
+grass-drops:
+  MELON_SEEDS: true
+  OAK_SAPLING: true
+  RASPBERRY_BUSH: true
+  BLUEBERRY_BUSH: true
+  PLUM_SAPLING: true
+  CORN_BUSH: true
+  SWEET POTATO_BUSH: true
+  ORANGE_SAPLING: true
+  PEACH_SAPLING: true
+  GRASS_SEEDS: true
+  WHEAT_SEEDS: true
+  BLACKBERRY_BUSH: true
+  CHERRY_SAPLING: true
+  DARK_OAK_SAPLING: true
+  TOMATO_BUSH: true
+  OAK_APPLE_SAPLING: true
+  ACACIA_SAPLING: true
+  TEA LEAF_BUSH: true
+  BIRCH_SAPLING: true
+  DRAGON_FRUIT_SAPLING: true
+  ELDERBERRY_BUSH: true
+  POMEGRANATE_SAPLING: true
+  JUNGLE_SAPLING: true
+  CABBAGE_BUSH: true
+  LETTUCE_BUSH: true
+  COCONUT_SAPLING: true
+  LIME_SAPLING: true
+  CRANBERRY_BUSH: true
+  PUMPKIN_SEEDS: true
+  COWBERRY_BUSH: true
+  LEMON_SAPLING: true
+  PINEAPPLE_BUSH: true
+  STRAWBERRY_BUSH: true
+  MUSTARD SEED_BUSH: true
+  PEAR_SAPLING: true
+  GRAPE_BUSH: true
+  SPRUCE_SAPLING: true
+world-blacklist:
+- world_nether
+- world_the_end
+chances:
+  TREE: 22
+  BUSH: 16
+options:
+  auto-update: true
+  item-heads: true

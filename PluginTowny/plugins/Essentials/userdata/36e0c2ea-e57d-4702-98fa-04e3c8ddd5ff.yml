@@ -1,0 +1,21 @@
+lastAccountName: CooKooGuy
+timestamps:
+  login: 1560969168752
+  logout: 1560974195903
+ipAddress: 47.187.197.11
+lastlocation:
+  world: world
+  x: -213.25830601877192
+  y: 89.1276257729411
+  z: 781.8995258845287
+  yaw: -63.944458
+  pitch: 23.699268
+logoutlocation:
+  world: world
+  x: -234.62739482598914
+  y: 72.5
+  z: 771.2413619016719
+  yaw: -54.27417
+  pitch: 12.599673
+afk: false
+money: '0.0'

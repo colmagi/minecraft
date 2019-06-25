@@ -1,0 +1,253 @@
+[15:18:32] [main/INFO]: Loaded 0 recipes
+[15:18:32] [Server thread/INFO]: Starting minecraft server version 1.13.2
+[15:18:32] [Server thread/INFO]: Loading properties
+[15:18:32] [Server thread/INFO]: Default game type: SURVIVAL
+[15:18:33] [Server thread/INFO]: This server is running CraftBukkit version git-Spigot-1a3504a-dfa7583 (MC: 1.13.2) (Implementing API version 1.13.2-R0.1-SNAPSHOT)
+[15:18:33] [Server thread/INFO]: Debug logging is disabled
+[15:18:33] [Server thread/INFO]: Using 4 threads for Netty based IO
+[15:18:33] [Server thread/INFO]: Server Ping Player Sample Count: 12
+[15:18:33] [Server thread/INFO]: Generating keypair
+[15:18:33] [Server thread/INFO]: Starting Minecraft server on *:25565
+[15:18:33] [Server thread/INFO]: Using default channel type
+[15:18:38] [Server thread/INFO]: [0;30;1m([0;31;22m[21mFAWE[0;30;1m)[m[0;37;22m [0;35;1mVault is used for persistent `/wea` toggles.[m
+[15:18:38] [Server thread/INFO]: ====== USE PAPER ======[m
+[15:18:38] [Server thread/INFO]: DOWNLOAD: https://papermc.io/ci/job/Paper-1.13/[m
+[15:18:38] [Server thread/INFO]: GUIDE: https://www.spigotmc.org/threads/21726/[m
+[15:18:38] [Server thread/INFO]:  - This is only a recommendation[m
+[15:18:38] [Server thread/INFO]: ==============================[m
+[15:18:39] [Server thread/INFO]: Got request to register class com.sk89q.worldedit.bukkit.BukkitServerInterface with WorldEdit [com.sk89q.worldedit.extension.platform.PlatformManager@629ac3aa]
+[15:18:39] [Server thread/INFO]: Using com.boydti.fawe.bukkit.adapter.v1_13_1.Spigot_v1_13_R2 as the Bukkit adapter
+[15:18:39] [Server thread/INFO]: WEPIF: Using the Bukkit Permissions API.
+[15:18:39] [Server thread/INFO]: Registering commands with com.sk89q.worldedit.bukkit.BukkitServerInterface
+[15:18:40] [Server thread/INFO]: [WorldEdit] Loading WorldEdit v1.13.115
+[15:18:40] [Server thread/INFO]: [FastAsyncWorldEdit] Loading FastAsyncWorldEdit v1.13-breaking
+[15:18:40] [Server thread/INFO]: [CS-CoreLib] Loading CS-CoreLib vDEV - 39 (git cc6a7de0)
+[15:18:40] [Server thread/INFO]: [Slimefun] Loading Slimefun vDEV - 95 (git 15555872)
+[15:18:40] [Server thread/INFO]: [SlimeXpansion] Loading SlimeXpansion v1.1.12
+[15:18:40] [Server thread/INFO]: Preparing level "world"
+[15:18:40] [Server thread/INFO]: Reloading ResourceManager: Default, bukkit
+[15:18:41] [Server thread/INFO]: Loaded 524 recipes
+[15:18:43] [Server thread/INFO]: -------- World Settings For [world] --------
+[15:18:43] [Server thread/INFO]: Experience Merge Radius: 3.0
+[15:18:43] [Server thread/INFO]: Arrow Despawn Rate: 1200
+[15:18:43] [Server thread/INFO]: View Distance: 10
+[15:18:43] [Server thread/INFO]: Zombie Aggressive Towards Villager: true
+[15:18:43] [Server thread/INFO]: Item Despawn Rate: 6000
+[15:18:43] [Server thread/INFO]: Item Merge Radius: 2.5
+[15:18:43] [Server thread/INFO]: Allow Zombie Pigmen to spawn from portal blocks: true
+[15:18:43] [Server thread/INFO]: Custom Map Seeds:  Village: 10387312 Desert: 14357617 Igloo: 14357618 Jungle: 14357619 Swamp: 14357620 Monument: 10387313Ocean: 14357621 Shipwreck: 165745295 Slime: 987234911
+[15:18:43] [Server thread/INFO]: Nerfing mobs spawned from spawners: false
+[15:18:43] [Server thread/INFO]: Mob Spawn Range: 6
+[15:18:43] [Server thread/INFO]: Max TNT Explosions: 100
+[15:18:43] [Server thread/INFO]: Tile Max Tick Time: 50ms Entity max Tick Time: 50ms
+[15:18:43] [Server thread/INFO]: Random Lighting Updates: false
+[15:18:43] [Server thread/INFO]: Entity Activation Range: An 32 / Mo 32 / Mi 16 / Tiv true
+[15:18:43] [Server thread/INFO]: Cactus Growth Modifier: 100%
+[15:18:43] [Server thread/INFO]: Cane Growth Modifier: 100%
+[15:18:43] [Server thread/INFO]: Melon Growth Modifier: 100%
+[15:18:43] [Server thread/INFO]: Mushroom Growth Modifier: 100%
+[15:18:43] [Server thread/INFO]: Pumpkin Growth Modifier: 100%
+[15:18:43] [Server thread/INFO]: Sapling Growth Modifier: 100%
+[15:18:43] [Server thread/INFO]: Beetroot Growth Modifier: 100%
+[15:18:43] [Server thread/INFO]: Carrot Growth Modifier: 100%
+[15:18:43] [Server thread/INFO]: Potato Growth Modifier: 100%
+[15:18:43] [Server thread/INFO]: Wheat Growth Modifier: 100%
+[15:18:43] [Server thread/INFO]: NetherWart Growth Modifier: 100%
+[15:18:43] [Server thread/INFO]: Vine Growth Modifier: 100%
+[15:18:43] [Server thread/INFO]: Cocoa Growth Modifier: 100%
+[15:18:43] [Server thread/INFO]: Entity Tracking Range: Pl 48 / An 48 / Mo 48 / Mi 32 / Other 64
+[15:18:43] [Server thread/INFO]: Hopper Transfer: 8 Hopper Check: 1 Hopper Amount: 1
+[15:18:43] [Server thread/INFO]: -------- World Settings For [world_nether] --------
+[15:18:43] [Server thread/INFO]: Experience Merge Radius: 3.0
+[15:18:43] [Server thread/INFO]: Arrow Despawn Rate: 1200
+[15:18:43] [Server thread/INFO]: View Distance: 10
+[15:18:43] [Server thread/INFO]: Zombie Aggressive Towards Villager: true
+[15:18:43] [Server thread/INFO]: Item Despawn Rate: 6000
+[15:18:43] [Server thread/INFO]: Item Merge Radius: 2.5
+[15:18:43] [Server thread/INFO]: Allow Zombie Pigmen to spawn from portal blocks: true
+[15:18:43] [Server thread/INFO]: Custom Map Seeds:  Village: 10387312 Desert: 14357617 Igloo: 14357618 Jungle: 14357619 Swamp: 14357620 Monument: 10387313Ocean: 14357621 Shipwreck: 165745295 Slime: 987234911
+[15:18:43] [Server thread/INFO]: Nerfing mobs spawned from spawners: false
+[15:18:43] [Server thread/INFO]: Mob Spawn Range: 6
+[15:18:43] [Server thread/INFO]: Max TNT Explosions: 100
+[15:18:43] [Server thread/INFO]: Tile Max Tick Time: 50ms Entity max Tick Time: 50ms
+[15:18:43] [Server thread/INFO]: Random Lighting Updates: false
+[15:18:43] [Server thread/INFO]: Entity Activation Range: An 32 / Mo 32 / Mi 16 / Tiv true
+[15:18:43] [Server thread/INFO]: Cactus Growth Modifier: 100%
+[15:18:43] [Server thread/INFO]: Cane Growth Modifier: 100%
+[15:18:43] [Server thread/INFO]: Melon Growth Modifier: 100%
+[15:18:43] [Server thread/INFO]: Mushroom Growth Modifier: 100%
+[15:18:43] [Server thread/INFO]: Pumpkin Growth Modifier: 100%
+[15:18:43] [Server thread/INFO]: Sapling Growth Modifier: 100%
+[15:18:43] [Server thread/INFO]: Beetroot Growth Modifier: 100%
+[15:18:43] [Server thread/INFO]: Carrot Growth Modifier: 100%
+[15:18:43] [Server thread/INFO]: Potato Growth Modifier: 100%
+[15:18:43] [Server thread/INFO]: Wheat Growth Modifier: 100%
+[15:18:43] [Server thread/INFO]: NetherWart Growth Modifier: 100%
+[15:18:43] [Server thread/INFO]: Vine Growth Modifier: 100%
+[15:18:43] [Server thread/INFO]: Cocoa Growth Modifier: 100%
+[15:18:43] [Server thread/INFO]: Entity Tracking Range: Pl 48 / An 48 / Mo 48 / Mi 32 / Other 64
+[15:18:43] [Server thread/INFO]: Hopper Transfer: 8 Hopper Check: 1 Hopper Amount: 1
+[15:18:43] [Server thread/INFO]: -------- World Settings For [world_the_end] --------
+[15:18:43] [Server thread/INFO]: Experience Merge Radius: 3.0
+[15:18:43] [Server thread/INFO]: Arrow Despawn Rate: 1200
+[15:18:43] [Server thread/INFO]: View Distance: 10
+[15:18:43] [Server thread/INFO]: Zombie Aggressive Towards Villager: true
+[15:18:43] [Server thread/INFO]: Item Despawn Rate: 6000
+[15:18:43] [Server thread/INFO]: Item Merge Radius: 2.5
+[15:18:43] [Server thread/INFO]: Allow Zombie Pigmen to spawn from portal blocks: true
+[15:18:43] [Server thread/INFO]: Custom Map Seeds:  Village: 10387312 Desert: 14357617 Igloo: 14357618 Jungle: 14357619 Swamp: 14357620 Monument: 10387313Ocean: 14357621 Shipwreck: 165745295 Slime: 987234911
+[15:18:43] [Server thread/INFO]: Nerfing mobs spawned from spawners: false
+[15:18:43] [Server thread/INFO]: Mob Spawn Range: 6
+[15:18:43] [Server thread/INFO]: Max TNT Explosions: 100
+[15:18:43] [Server thread/INFO]: Tile Max Tick Time: 50ms Entity max Tick Time: 50ms
+[15:18:43] [Server thread/INFO]: Random Lighting Updates: false
+[15:18:43] [Server thread/INFO]: Entity Activation Range: An 32 / Mo 32 / Mi 16 / Tiv true
+[15:18:43] [Server thread/INFO]: Cactus Growth Modifier: 100%
+[15:18:43] [Server thread/INFO]: Cane Growth Modifier: 100%
+[15:18:43] [Server thread/INFO]: Melon Growth Modifier: 100%
+[15:18:43] [Server thread/INFO]: Mushroom Growth Modifier: 100%
+[15:18:43] [Server thread/INFO]: Pumpkin Growth Modifier: 100%
+[15:18:43] [Server thread/INFO]: Sapling Growth Modifier: 100%
+[15:18:43] [Server thread/INFO]: Beetroot Growth Modifier: 100%
+[15:18:43] [Server thread/INFO]: Carrot Growth Modifier: 100%
+[15:18:43] [Server thread/INFO]: Potato Growth Modifier: 100%
+[15:18:43] [Server thread/INFO]: Wheat Growth Modifier: 100%
+[15:18:43] [Server thread/INFO]: NetherWart Growth Modifier: 100%
+[15:18:43] [Server thread/INFO]: Vine Growth Modifier: 100%
+[15:18:43] [Server thread/INFO]: Cocoa Growth Modifier: 100%
+[15:18:43] [Server thread/INFO]: Entity Tracking Range: Pl 48 / An 48 / Mo 48 / Mi 32 / Other 64
+[15:18:43] [Server thread/INFO]: Hopper Transfer: 8 Hopper Check: 1 Hopper Amount: 1
+[15:18:43] [Server thread/INFO]: Preparing start region for level minecraft:overworld (Seed: -2321067247696102820)
+[15:18:43] [Server thread/INFO]: Preparing spawn area: 4%
+[15:18:43] [Server thread/INFO]: Preparing spawn area: 8%
+[15:18:43] [Server thread/INFO]: Preparing spawn area: 12%
+[15:18:43] [Server thread/INFO]: Preparing spawn area: 16%
+[15:18:43] [Server thread/INFO]: Preparing spawn area: 20%
+[15:18:43] [Server thread/INFO]: Preparing spawn area: 24%
+[15:18:44] [Server thread/INFO]: Preparing spawn area: 28%
+[15:18:44] [Server thread/INFO]: Preparing spawn area: 32%
+[15:18:44] [Server thread/INFO]: Preparing spawn area: 36%
+[15:18:44] [Server thread/INFO]: Preparing spawn area: 40%
+[15:18:44] [Server thread/INFO]: Preparing spawn area: 44%
+[15:18:44] [Server thread/INFO]: Preparing spawn area: 48%
+[15:18:44] [Server thread/INFO]: Preparing spawn area: 52%
+[15:18:44] [Server thread/INFO]: Preparing spawn area: 56%
+[15:18:44] [Server thread/INFO]: Preparing spawn area: 60%
+[15:18:44] [Server thread/INFO]: Preparing spawn area: 64%
+[15:18:45] [Server thread/INFO]: Preparing spawn area: 68%
+[15:18:45] [Server thread/INFO]: Preparing spawn area: 72%
+[15:18:45] [Server thread/INFO]: Preparing spawn area: 76%
+[15:18:45] [Server thread/INFO]: Preparing spawn area: 80%
+[15:18:45] [Server thread/INFO]: Preparing spawn area: 84%
+[15:18:45] [Server thread/INFO]: Preparing spawn area: 88%
+[15:18:45] [Server thread/INFO]: Preparing spawn area: 92%
+[15:18:45] [Server thread/INFO]: Preparing spawn area: 96%
+[15:18:45] [Server thread/INFO]: Preparing spawn area: 100%
+[15:18:45] [Server thread/INFO]: Preparing start region for level minecraft:the_nether (Seed: -2321067247696102820)
+[15:18:45] [Server thread/INFO]: Preparing spawn area: 4%
+[15:18:45] [Server thread/INFO]: Preparing spawn area: 8%
+[15:18:45] [Server thread/INFO]: Preparing spawn area: 12%
+[15:18:45] [Server thread/INFO]: Preparing spawn area: 16%
+[15:18:45] [Server thread/INFO]: Preparing spawn area: 20%
+[15:18:45] [Server thread/INFO]: Preparing spawn area: 24%
+[15:18:45] [Server thread/INFO]: Preparing spawn area: 28%
+[15:18:45] [Server thread/INFO]: Preparing spawn area: 32%
+[15:18:46] [Server thread/INFO]: Preparing spawn area: 36%
+[15:18:46] [Server thread/INFO]: Preparing spawn area: 40%
+[15:18:46] [Server thread/INFO]: Preparing spawn area: 44%
+[15:18:46] [Server thread/INFO]: Preparing spawn area: 48%
+[15:18:46] [Server thread/INFO]: Preparing spawn area: 52%
+[15:18:46] [Server thread/INFO]: Preparing spawn area: 56%
+[15:18:46] [Server thread/INFO]: Preparing spawn area: 60%
+[15:18:46] [Server thread/INFO]: Preparing spawn area: 64%
+[15:18:46] [Server thread/INFO]: Preparing spawn area: 68%
+[15:18:46] [Server thread/INFO]: Preparing spawn area: 72%
+[15:18:46] [Server thread/INFO]: Preparing spawn area: 76%
+[15:18:46] [Server thread/INFO]: Preparing spawn area: 80%
+[15:18:46] [Server thread/INFO]: Preparing spawn area: 84%
+[15:18:46] [Server thread/INFO]: Preparing spawn area: 88%
+[15:18:46] [Server thread/INFO]: Preparing spawn area: 92%
+[15:18:46] [Server thread/INFO]: Preparing spawn area: 96%
+[15:18:46] [Server thread/INFO]: Preparing spawn area: 100%
+[15:18:46] [Server thread/INFO]: Preparing start region for level minecraft:the_end (Seed: -2321067247696102820)
+[15:18:46] [Server thread/INFO]: Preparing spawn area: 4%
+[15:18:46] [Server thread/INFO]: Preparing spawn area: 8%
+[15:18:46] [Server thread/INFO]: Preparing spawn area: 12%
+[15:18:46] [Server thread/INFO]: Preparing spawn area: 16%
+[15:18:46] [Server thread/INFO]: Preparing spawn area: 20%
+[15:18:46] [Server thread/INFO]: Preparing spawn area: 24%
+[15:18:46] [Server thread/INFO]: Preparing spawn area: 28%
+[15:18:46] [Server thread/INFO]: Preparing spawn area: 32%
+[15:18:46] [Server thread/INFO]: Preparing spawn area: 36%
+[15:18:46] [Server thread/INFO]: Preparing spawn area: 40%
+[15:18:47] [Server thread/INFO]: Preparing spawn area: 44%
+[15:18:47] [Server thread/INFO]: Preparing spawn area: 48%
+[15:18:47] [Server thread/INFO]: Preparing spawn area: 52%
+[15:18:47] [Server thread/INFO]: Preparing spawn area: 56%
+[15:18:47] [Server thread/INFO]: Preparing spawn area: 60%
+[15:18:47] [Server thread/INFO]: Preparing spawn area: 64%
+[15:18:47] [Server thread/INFO]: Preparing spawn area: 68%
+[15:18:47] [Server thread/INFO]: Preparing spawn area: 72%
+[15:18:47] [Server thread/INFO]: Preparing spawn area: 76%
+[15:18:47] [Server thread/INFO]: Preparing spawn area: 80%
+[15:18:47] [Server thread/INFO]: Preparing spawn area: 84%
+[15:18:47] [Server thread/INFO]: Preparing spawn area: 88%
+[15:18:47] [Server thread/INFO]: Preparing spawn area: 92%
+[15:18:47] [Server thread/INFO]: Preparing spawn area: 96%
+[15:18:47] [Server thread/INFO]: Preparing spawn area: 100%
+[15:18:47] [Server thread/INFO]: Time elapsed: 3847 ms
+[15:18:47] [Server thread/INFO]: [FastAsyncWorldEdit] Enabling FastAsyncWorldEdit v1.13-breaking
+[15:18:47] [Server thread/INFO]: [CS-CoreLib] Enabling CS-CoreLib vDEV - 39 (git cc6a7de0)
+[15:18:47] [Server thread/WARN]:  
+[15:18:47] [Server thread/WARN]: ################## - DEVELOPMENT BUILD - ##################
+[15:18:47] [Server thread/WARN]: You appear to be using an experimental build of CS-CoreLib
+[15:18:47] [Server thread/WARN]: Version DEV - 39 (git cc6a7de0)
+[15:18:47] [Server thread/WARN]:  
+[15:18:47] [Server thread/WARN]: Auto-Updates have been disabled. Use at your own risk!
+[15:18:47] [Server thread/WARN]:  
+[15:18:47] [Server thread/INFO]: [Slimefun] Enabling Slimefun vDEV - 95 (git 15555872)
+[15:18:47] [Server thread/INFO]: [Slimefun] Loading Files...
+[15:18:47] [Server thread/INFO]: [Slimefun] Loading Config...
+[15:18:47] [Server thread/WARN]:  
+[15:18:47] [Server thread/WARN]: ################## - DEVELOPMENT BUILD - ##################
+[15:18:47] [Server thread/WARN]: You appear to be using an experimental build of Slimefun
+[15:18:47] [Server thread/WARN]: Version DEV - 95 (git 15555872)
+[15:18:47] [Server thread/WARN]:  
+[15:18:47] [Server thread/WARN]: Auto-Updates have been disabled. Use at your own risk!
+[15:18:47] [Server thread/WARN]:  
+[15:18:47] [Server thread/INFO]: [Slimefun] Loading Items...
+[15:18:49] [Server thread/INFO]: [Slimefun] Loading Researches...
+[15:18:49] [Server thread/INFO]: [Slimefun] Loading World Generators...
+[15:18:49] [Server thread/INFO]: [Slimefun - GEO] Registering Ore Gen: Oil
+[15:18:50] [Server thread/INFO]: [Slimefun - GEO] Registering Ore Gen: Nether Ice
+[15:18:50] [Server thread/INFO]: [Slimefun] Successfully hooked into WorldEdit!
+[15:18:50] [Server thread/INFO]: [Slimefun] Finished!
+[15:18:50] [Server thread/INFO]: [SlimeXpansion] Enabling SlimeXpansion v1.1.12
+[15:18:50] [Server thread/INFO]: [SlimeXpansion] There is no such item with name GOLD_HELMET
+[15:18:50] [Server thread/INFO]: [Slimefun - GEO] Registering Ore Gen: Thorium
+[15:18:50] [Server thread/INFO]: [SlimeXpansion] SlimeXpansion has been enabled!
+[15:18:50] [Server thread/INFO]: Server permissions file permissions.yml is empty, ignoring it
+[15:18:50] [Server thread/INFO]: Done (10.072s)! For help, type "help"
+[15:18:50] [Server thread/INFO]: ====== USE PAPER ======[m
+[15:18:50] [Server thread/INFO]: DOWNLOAD: https://papermc.io/ci/job/Paper-1.13/[m
+[15:18:50] [Server thread/INFO]: GUIDE: https://www.spigotmc.org/threads/21726/[m
+[15:18:50] [Server thread/INFO]:  - This is only a recommendation[m
+[15:18:50] [Server thread/INFO]:  - Allows the use of Async Tab Completetion as provided by Paper[m
+[15:18:50] [Server thread/INFO]: ==============================[m
+[15:18:50] [Server thread/INFO]: [0;34;22m###################### - Slimefun - ######################[m
+[15:18:50] [Server thread/INFO]: [0;34;22mSuccessfully loaded 492 Items (235 Researches)[m
+[15:18:50] [Server thread/INFO]: [0;34;22m( 464 Items from Slimefun, 28 Items from Addons )[m
+[15:18:50] [Server thread/INFO]: [0;34;22m##########################################################[m
+[15:18:50] [Server thread/INFO]: [Slimefun] Loading Blocks for World "world"
+[15:18:50] [Server thread/INFO]: [Slimefun] This may take a long time...
+[15:18:50] [Server thread/INFO]: [Slimefun] Loading Blocks... 100% (FINISHED - 0ms)
+[15:18:50] [Server thread/INFO]: [Slimefun] Loaded a total of 0 Blocks for World "world"
+[15:18:50] [Server thread/INFO]: [Slimefun] Loading Blocks for World "world_nether"
+[15:18:50] [Server thread/INFO]: [Slimefun] This may take a long time...
+[15:18:50] [Server thread/INFO]: [Slimefun] Loading Blocks... 100% (FINISHED - 0ms)
+[15:18:50] [Server thread/INFO]: [Slimefun] Loaded a total of 0 Blocks for World "world_nether"
+[15:18:50] [Server thread/INFO]: [Slimefun] Loading Blocks for World "world_the_end"
+[15:18:50] [Server thread/INFO]: [Slimefun] This may take a long time...
+[15:18:50] [Server thread/INFO]: [Slimefun] Loading Blocks... 100% (FINISHED - 0ms)
+[15:18:50] [Server thread/INFO]: [Slimefun] Loaded a total of 0 Blocks for World "world_the_end"
+[15:18:51] [Thread-9/INFO]: [CS-CoreLib - Updater] SlimeXpansion is up to date!

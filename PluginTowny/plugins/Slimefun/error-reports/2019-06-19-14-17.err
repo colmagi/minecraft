@@ -1,0 +1,88 @@
+
+Server Software: CraftBukkit
+  Build: git-Spigot-1a3504a-dfa7583 (MC: 1.13.2)
+  Minecraft: 1.13.2-R0.1-SNAPSHOT
+
+Slimefun Environment:
+  CS-CoreLib vv1.6.1
+  Slimefun vDEV - 95 (git 15555872)
+
+ Installed Addons (3)
+  + ExoticGarden DEV - 11 (git feac0c42)
+  + Barrels 1.12
+  + SlimeXpansion 1.1.12
+
+Installed Plugins (26):
+  + CoreProtect 2.16.3
+  + LuckPerms 4.4.1
+  + WorldEdit 1.13.138
+  + FastAsyncVoxelSniper 1.13.138
+  + BetterChairs 0.10.1
+  + FastAsyncWorldEdit 1.13-breaking
+  + iDisguise 5.8.2
+  + CS-CoreLib v1.6.1
+  + mcMMO 2.1.74
+  + Vault 1.7.2-b107
+  + Essentials 2.16.1.0
+  + SimpleRename 10.7.5
+  + LWC 2.1.2-dd8c289
+  + Citizens 2.0.25-SNAPSHOT (build 1702)
+  + AuctionHouse 1.7.0-b2
+  + Slimefun DEV - 95 (git 15555872)
+  + ExoticGarden DEV - 11 (git feac0c42)
+  + Barrels 1.12
+  + PlayerVaults 4.1.0
+  + BetterRTP 2.8.2
+  + EssentialsSpawn 2.16.1.0
+  + ChestShop 3.9.2 (build 86)
+  + SlimeXpansion 1.1.12
+  + Towny 0.93.0.0
+  + TownyChat 0.53
+  + TownyNameUpdater 2.0
+
+Ticked Block:
+  World: world
+  X: -228
+  Y: 93
+  Z: 850
+
+Slimefun Data:
+  ID: BARREL_GIGANTIC
+  Inventory: true
+  Data: {"owner":"4150cd4b-a415-4298-bdc7-c9e330b466cc","id":"BARREL_GIGANTIC","whitelist":" ","capacity":"1048576"}
+
+Stacktrace:
+
+java.lang.NumberFormatException: null
+	at java.lang.Integer.parseInt(Unknown Source)
+	at java.lang.Integer.valueOf(Unknown Source)
+	at me.john000708.barrels.Barrel.getCapacityItem(Barrel.java:226)
+	at me.john000708.barrels.Barrel.updateBarrel(Barrel.java:355)
+	at me.john000708.barrels.Barrel.access$100(Barrel.java:34)
+	at me.john000708.barrels.Barrel$1$1.onEvent(Barrel.java:62)
+	at me.mrCookieSlime.Slimefun.api.inventory.BlockMenu.replaceExistingItem(BlockMenu.java:121)
+	at me.mrCookieSlime.Slimefun.api.inventory.BlockMenu.replaceExistingItem(BlockMenu.java:114)
+	at me.john000708.barrels.Barrel.pushItems(Barrel.java:426)
+	at me.john000708.barrels.Barrel.updateBarrel(Barrel.java:346)
+	at me.john000708.barrels.Barrel.access$100(Barrel.java:34)
+	at me.john000708.barrels.Barrel$1$1.onEvent(Barrel.java:62)
+	at me.mrCookieSlime.Slimefun.api.inventory.BlockMenu.replaceExistingItem(BlockMenu.java:121)
+	at me.mrCookieSlime.Slimefun.api.inventory.BlockMenu.replaceExistingItem(BlockMenu.java:114)
+	at me.john000708.barrels.Barrel.pushItems(Barrel.java:426)
+	at me.john000708.barrels.Barrel.updateBarrel(Barrel.java:346)
+	at me.john000708.barrels.Barrel.access$100(Barrel.java:34)
+	at me.john000708.barrels.Barrel$1$1.onEvent(Barrel.java:62)
+	at me.mrCookieSlime.Slimefun.api.inventory.BlockMenu.replaceExistingItem(BlockMenu.java:121)
+	at me.mrCookieSlime.Slimefun.api.inventory.BlockMenu.replaceExistingItem(BlockMenu.java:114)
+	at me.john000708.barrels.Barrel.pushItems(Barrel.java:426)
+	at me.john000708.barrels.Barrel.updateBarrel(Barrel.java:346)
+	at me.john000708.barrels.Barrel.access$100(Barrel.java:34)
+	at me.john000708.barrels.Barrel$3.tick(Barrel.java:190)
+	at me.mrCookieSlime.Slimefun.api.TickerTask.lambda$run$16(TickerTask.java:87)
+	at org.bukkit.craftbukkit.v1_13_R2.scheduler.CraftTask.run(CraftTask.java:81)
+	at org.bukkit.craftbukkit.v1_13_R2.scheduler.CraftScheduler.mainThreadHeartbeat(CraftScheduler.java:392)
+	at net.minecraft.server.v1_13_R2.MinecraftServer.b(MinecraftServer.java:889)
+	at net.minecraft.server.v1_13_R2.DedicatedServer.b(DedicatedServer.java:417)
+	at net.minecraft.server.v1_13_R2.MinecraftServer.a(MinecraftServer.java:831)
+	at net.minecraft.server.v1_13_R2.MinecraftServer.run(MinecraftServer.java:729)
+	at java.lang.Thread.run(Unknown Source)
